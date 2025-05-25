@@ -1084,3 +1084,322 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25May2025 22:30:06.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandr81215 lost connection: Timed out
 [25May2025 22:30:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 left the game
 [25May2025 22:30:57.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Deepling Brute
+[25May2025 22:33:28.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandr81215[/127.245.49.78:55549] logged in with entity id 57956 at (1177.4017809676013, 77.92159999847412, 64.6132807859015)
+[25May2025 22:33:28.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 joined the game
+[25May2025 22:34:22.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Seedy Place]
+[25May2025 22:36:10.274] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[25May2025 22:36:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[25May2025 22:36:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[25May2025 22:36:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[25May2025 22:36:29.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[25May2025 22:36:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[25May2025 22:36:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[25May2025 22:36:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[25May2025 22:36:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[25May2025 22:36:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[25May2025 22:36:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[25May2025 22:36:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[25May2025 22:36:29.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /octolib config reload (all|<path>)
+[25May2025 22:36:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /easy_npc (configure|debug|delete|dialog|navigation|owner|preset|render|skin|sound|trading)
+[25May2025 22:36:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /obscure (reload|assign)
+[25May2025 22:36:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /horde trigger
+[25May2025 22:36:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tt_reload
+[25May2025 22:36:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dimensiontitle <dimension>
+[25May2025 22:36:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biometitle <biome>
+[25May2025 22:36:29.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[25May2025 22:36:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[25May2025 22:36:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /relics (maximize|minimize|level|experience|points|ability)
+[25May2025 22:36:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /torchmaster [torchdump|entitydump]
+[25May2025 22:36:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[25May2025 22:36:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coro config common (reload|save|get|set)
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /createScroll <spell> <level>
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /createSpellBook <slots> [randomize]
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /createImbuedSword <item> <spell> <level>
+[25May2025 22:36:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /createDebugWizard <spell> <spellLevel> <targetsPlayer> <cancelAfterTicks>
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cast <casters> <spell> [<level>|<function value>]
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mana (set|add|get)
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modlist
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /learnSpell (forget|learn)
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearCooldowns [all|player]
+[25May2025 22:36:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearRecasts (all|player)
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waterframes (edit|audit|experiments|give|whitelist)
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bumblezone_read_self_data (<data_to_check>|queens_desired_killed_entity_counter)
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bumblezone_modify_data <data_to_modify> <targets> <new_value>
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bumblezone_read_data (<data_to_modify>|queens_desired_killed_entity_counter)
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bumblezone_teleport <targets>
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bumblezone_tag_log_output <registry> <tag>
+[25May2025 22:36:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore <target> <death_id> (replace|add)
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearcosarmor [<targets>]
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coshat
+[25May2025 22:36:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[25May2025 22:38:44.342] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3082ms or 61 ticks
+[25May2025 22:38:46.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Forbidden Fruit]
+[25May2025 22:39:04.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandr81215 moved too quickly! 7.956078627693159,2.5176427870768094,5.681603083973187
+[25May2025 22:40:56.610] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[25May2025 22:41:48.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 has made the advancement [Sweet Dreams]
+[25May2025 22:42:05.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandr81215 lost connection: Disconnected
+[25May2025 22:42:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 left the game
+[25May2025 22:42:08.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Stay dead]
+[25May2025 22:46:27.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Disconnected
+[25May2025 22:46:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
+[25May2025 22:46:49.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Gravedigger]
+[25May2025 22:52:42.713] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
+[25May2025 22:53:04.869] [Server thread/ERROR] [net.minecraft.Util/]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1514) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManager.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:179) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25May2025 22:53:04.875] [Server thread/ERROR] [net.minecraft.Util/]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1514) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManager.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:179) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[25May2025 22:53:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Fruits of the Field]
+[25May2025 22:53:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [A Fool's Folly]
+[25May2025 22:57:27.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:39073] logged in with entity id 80530 at (1990.3256858215316, 64.0, 692.6248140448869)
+[25May2025 22:57:27.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[25May2025 22:57:34.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota moved too quickly! 8.377550408028128,4.252203340253729,3.755973503475161
+[25May2025 22:57:34.555] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7232ms or 144 ticks
+[25May2025 22:57:34.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4268ms or 85 ticks behind
+[25May2025 22:58:02.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota moved too quickly! -2.9628593568336328,-0.3479532120694131,9.570603707094506
+[25May2025 22:58:02.669] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3556ms or 71 ticks
+[25May2025 22:58:23.968] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3135ms or 62 ticks
+[25May2025 22:58:50.445] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3132ms or 62 ticks
+[25May2025 22:59:11.550] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3126ms or 62 ticks
+[25May2025 22:59:32.755] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3161ms or 63 ticks
+[25May2025 22:59:53.899] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3086ms or 61 ticks
+[25May2025 23:00:22.464] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
+[25May2025 23:00:32.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jota> a
+[25May2025 23:00:58.368] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3058ms or 61 ticks
+[25May2025 23:01:20.814] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3128ms or 62 ticks
+[25May2025 23:01:44.824] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3555ms or 71 ticks
+[25May2025 23:02:05.100] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3227ms or 64 ticks
+[25May2025 23:02:27.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3041ms or 60 ticks
+[25May2025 23:02:46.947] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3192ms or 63 ticks
+[25May2025 23:03:08.966] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3045ms or 60 ticks
+[25May2025 23:03:27.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Disconnected
+[25May2025 23:03:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[25May2025 23:06:59.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:43085] logged in with entity id 87255 at (2477.0999018374, 62.07326432466507, 777.2231300981975)
+[25May2025 23:06:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
+[25May2025 23:08:24.965] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3010ms or 60 ticks
+[25May2025 23:08:28.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[25May2025 23:08:28.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[25May2025 23:08:44.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:44339] logged in with entity id 88717 at (1405.699999988079, 82.7531999805212, 1977.699999988079)
+[25May2025 23:08:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[25May2025 23:10:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [A Seedy Place]
+[25May2025 23:12:00.539] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3016ms or 60 ticks
+[25May2025 23:13:14.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[25May2025 23:13:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game

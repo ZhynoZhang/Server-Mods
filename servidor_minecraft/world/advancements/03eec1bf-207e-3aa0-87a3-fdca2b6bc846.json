@@ -180,6 +180,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-25 21:46:54 +0000",
+      "minecraft:spider": "2025-05-25 22:41:03 +0000",
       "minecraft:husk": "2025-05-25 21:40:05 +0000",
       "minecraft:enderman": "2025-05-25 20:50:24 +0000",
       "minecraft:zombie": "2025-05-25 21:23:21 +0000",
@@ -3762,6 +3763,24 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-25 22:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-25 22:41:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 22:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 22:37:12 +0000"
     },
     "done": true
   },
