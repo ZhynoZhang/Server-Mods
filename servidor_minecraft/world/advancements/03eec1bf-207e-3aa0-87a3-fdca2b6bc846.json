@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-25 21:44:11 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2025-05-25 20:58:29 +0000"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-25 21:33:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_chair": {
     "criteria": {
       "has_acacia_chair": "2025-05-25 21:21:38 +0000"
@@ -529,6 +541,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-25 21:46:54 +0000",
+      "minecraft:husk": "2025-05-25 21:40:05 +0000",
       "minecraft:enderman": "2025-05-25 20:50:24 +0000",
       "minecraft:zombie": "2025-05-25 21:23:21 +0000"
     },
@@ -1336,6 +1350,12 @@
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-05-25 20:44:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-05-25 21:47:06 +0000"
     },
     "done": true
   },
@@ -2275,6 +2295,7 @@
       "lush_savanna": "2025-05-25 20:38:29 +0000",
       "wasteland": "2025-05-25 21:22:37 +0000",
       "lush_desert": "2025-05-25 21:17:30 +0000",
+      "wasteland_steppe": "2025-05-25 21:31:07 +0000",
       "glowing_grotto": "2025-05-25 20:56:43 +0000"
     },
     "done": false
@@ -2987,6 +3008,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-25 21:37:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-05-25 21:05:02 +0000"
@@ -3261,8 +3288,10 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-05-25 20:39:40 +0000",
       "minecraft:river": "2025-05-25 21:17:20 +0000",
+      "minecraft:stony_shore": "2025-05-25 21:37:00 +0000",
       "minecraft:lush_caves": "2025-05-25 20:56:47 +0000",
-      "minecraft:desert": "2025-05-25 20:40:00 +0000"
+      "minecraft:desert": "2025-05-25 20:40:00 +0000",
+      "minecraft:warm_ocean": "2025-05-25 21:33:41 +0000"
     },
     "done": false
   },
@@ -3346,7 +3375,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-25 20:44:57 +0000"
+      "bread": "2025-05-25 20:44:57 +0000",
+      "glow_berries": "2025-05-25 21:44:31 +0000"
     },
     "done": false
   },
