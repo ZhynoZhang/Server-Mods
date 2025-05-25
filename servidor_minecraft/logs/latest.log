@@ -985,3 +985,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25May2025 21:47:06.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 has made the advancement [A Terrifying Entrance]
 [25May2025 21:47:11.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [A Terrifying Entrance]
 [25May2025 21:48:47.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Haunted Knight
+[25May2025 21:54:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [A Terrifying Entrance]
+[25May2025 21:54:35.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Jota to ZhynoDamned]
+[25May2025 21:55:15.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[25May2025 21:56:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Cover Me with Diamonds]
+[25May2025 21:57:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Living Armor]
+[25May2025 21:57:36.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Undead Guard]
+[25May2025 21:57:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Hot Stuff]
+[25May2025 21:57:57.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Haunted Knight
+[25May2025 21:57:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Terrifying Entrance]
+[25May2025 21:58:11.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Living Armor]
+[25May2025 21:58:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Jota to ZhynoDamned]
+[25May2025 21:58:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Undead Guard]
+[25May2025 21:59:21.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Living Armor]
+[25May2025 22:00:09.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
+[25May2025 22:00:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[25May2025 22:00:09.102] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 22:00:17.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:56533] logged in with entity id 43204 at (2008.7992399399159, 48.0, 688.6162640387497)
+[25May2025 22:00:17.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[25May2025 22:00:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
+[25May2025 22:00:55.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[25May2025 22:01:04.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
+[25May2025 22:01:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[25May2025 22:01:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Possessed Paladin
+[25May2025 22:02:03.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Jota to ZhynoDamned]

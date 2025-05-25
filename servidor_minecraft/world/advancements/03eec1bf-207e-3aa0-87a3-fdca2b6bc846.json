@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-05-25 21:54:50 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-05-25 20:51:24 +0000"
@@ -544,7 +550,8 @@
       "minecraft:skeleton": "2025-05-25 21:46:54 +0000",
       "minecraft:husk": "2025-05-25 21:40:05 +0000",
       "minecraft:enderman": "2025-05-25 20:50:24 +0000",
-      "minecraft:zombie": "2025-05-25 21:23:21 +0000"
+      "minecraft:zombie": "2025-05-25 21:23:21 +0000",
+      "minecraft:drowned": "2025-05-25 21:51:20 +0000"
     },
     "done": false
   },
@@ -1154,6 +1161,12 @@
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 21:54:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_the_recipe": "2025-05-25 20:51:24 +0000"
@@ -1413,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-25 21:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-25 21:01:34 +0000"
@@ -1560,6 +1579,12 @@
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-05-25 20:38:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 21:54:50 +0000"
     },
     "done": true
   },
@@ -2720,6 +2745,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-25 21:54:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-05-25 20:51:49 +0000"
@@ -2945,6 +2976,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
       "has_acacia_planks": "2025-05-25 21:21:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 21:54:50 +0000"
     },
     "done": true
   },

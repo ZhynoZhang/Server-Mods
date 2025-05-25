@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 21:52:45 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_iron": "2025-05-25 21:10:07 +0000"
@@ -760,6 +766,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-05-25 21:50:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 21:10:07 +0000"
@@ -1060,6 +1072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 21:52:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-05-25 20:52:30 +0000"
@@ -1219,6 +1237,12 @@
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 21:10:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_button": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
     },
     "done": true
   },
@@ -1535,6 +1559,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-25 20:52:33 +0000"
@@ -1643,6 +1673,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/palm_fence": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 20:53:17 +0000"
@@ -1676,6 +1712,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-25 20:53:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
     },
     "done": true
   },
@@ -1835,6 +1877,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-25 20:53:34 +0000"
@@ -1880,6 +1928,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-05-25 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
     },
     "done": true
   },
@@ -2460,6 +2514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 21:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-05-25 21:26:05 +0000"
@@ -2577,6 +2637,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-05-25 20:52:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 21:52:45 +0000"
     },
     "done": true
   },
@@ -2889,6 +2955,12 @@
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-05-25 20:34:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2025-05-25 21:47:48 +0000"
     },
     "done": true
   },
@@ -3336,6 +3408,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-25 21:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-25 20:58:12 +0000"
@@ -3528,6 +3606,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-05-25 20:52:33 +0000"
@@ -3599,6 +3683,12 @@
       "bread": "2025-05-25 20:35:35 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-05-25 21:59:21 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -3711,6 +3801,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-25 21:13:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-25 21:47:48 +0000"
     },
     "done": true
   },
