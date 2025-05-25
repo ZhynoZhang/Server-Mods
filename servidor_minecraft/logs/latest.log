@@ -794,3 +794,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [25May2025 20:49:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
 [25May2025 20:49:36.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Getting an Upgrade]
 [25May2025 20:50:24.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 has made the advancement [Monster Hunter]
+[25May2025 20:53:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 has made the advancement [Stone Age]
+[25May2025 20:53:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Stone Age]
+[25May2025 20:55:32.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:36883] logged in with entity id 9646 at (1094.5608984653745, 69.0, 105.39068564830504)
+[25May2025 20:55:32.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
+[25May2025 20:55:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandr81215 has made the advancement [Getting an Upgrade]
+[25May2025 20:55:52.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Getting an Upgrade]
+[25May2025 20:57:32.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1110, y=82, z=75} BlockPos{x=1109, y=82, z=74}
+[25May2025 20:57:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Tools of the Trade]
+[25May2025 20:59:42.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/93, l='ServerLevel[world]', x=1074.70, y=68.05, z=143.30] died, message: 'Villager was slain by Husk'
+[25May2025 20:59:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Isn't It Iron Pick]

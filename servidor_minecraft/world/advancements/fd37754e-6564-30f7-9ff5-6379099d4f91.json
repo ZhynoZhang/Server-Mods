@@ -1728,6 +1728,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-05-25 20:38:10 +0000",
+      "bread": "2025-05-25 20:56:22 +0000",
       "carrot": "2025-05-25 20:38:25 +0000"
     },
     "done": false
@@ -1921,6 +1922,30 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-05-25 20:42:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-25 20:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-25 20:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-25 20:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-25 20:48:53 +0000"
     },
     "done": true
   },
@@ -2356,12 +2381,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-05-25 20:48:53 +0000"
-    },
-    "done": true
-  },
   "bakery:recipes/sandstone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 20:48:58 +0000"
@@ -2542,12 +2561,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2025-05-25 20:47:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 20:48:58 +0000"
@@ -2653,12 +2666,6 @@
   "fairylights:recipes/fairylights/snowflake_light": {
     "criteria": {
       "has_iron": "2025-05-25 20:48:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-05-25 20:47:57 +0000"
     },
     "done": true
   },
@@ -2827,12 +2834,6 @@
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-05-25 20:48:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-05-25 20:47:57 +0000"
     },
     "done": true
   },
