@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-25 20:35:50 +0000"
@@ -885,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-25 22:17:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-25 20:35:02 +0000"
@@ -1080,6 +1092,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-05-25 20:35:44 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-25 22:01:06 +0000"
     },
     "done": true
   },
@@ -1461,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-05-25 21:13:30 +0000"
@@ -1543,6 +1567,12 @@
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-05-25 20:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
     },
     "done": true
   },
@@ -2236,6 +2266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-25 21:36:41 +0000"
@@ -2398,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-05-25 20:35:50 +0000"
@@ -2413,6 +2455,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-05-25 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
     },
     "done": true
   },
@@ -2656,6 +2704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-25 22:00:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-05-25 20:35:44 +0000"
@@ -2888,6 +2942,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-05-25 22:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-25 20:35:02 +0000"
@@ -3047,6 +3107,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 21:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
     },
     "done": true
   },
@@ -3296,6 +3362,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-25 22:19:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-05-25 20:35:44 +0000"
@@ -3386,6 +3458,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-05-25 22:01:06 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 21:07:27 +0000"
@@ -3419,6 +3497,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-25 21:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-25 22:19:55 +0000"
     },
     "done": true
   },
@@ -3461,6 +3545,12 @@
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-05-25 20:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-25 22:00:52 +0000"
     },
     "done": true
   },
@@ -3641,6 +3731,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-05-25 20:35:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-25 22:18:02 +0000"
     },
     "done": true
   },
@@ -3933,6 +4029,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-25 22:15:37 +0000",
       "bread": "2025-05-25 20:40:22 +0000"
     },
     "done": false
@@ -4120,6 +4217,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_paper": "2025-05-25 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-25 22:18:02 +0000"
     },
     "done": true
   },
