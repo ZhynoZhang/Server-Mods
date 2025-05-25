@@ -1434,3 +1434,28 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [25May2025 23:23:29.176] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
 [25May2025 23:23:49.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
 [25May2025 23:23:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[25May2025 23:25:16.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Forbidden Fruit]
+[25May2025 23:25:42.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:53661] logged in with entity id 98175 at (1099.5, 92.0, 64.5)
+[25May2025 23:25:42.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[25May2025 23:26:12.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/98690, l='ServerLevel[world]', x=1624.49, y=64.56, z=952.51] died, message: 'Botanist suffocated in a wall'
+[25May2025 23:26:34.140] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
+[25May2025 23:27:25.662] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3023ms or 60 ticks
+[25May2025 23:28:16.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was pierced by Necromancer's icicle
+[25May2025 23:28:28.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[25May2025 23:28:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[25May2025 23:29:12.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:39779] logged in with entity id 101614 at (2779.582187080941, 67.0, 3628.0158060704657)
+[25May2025 23:29:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
+[25May2025 23:29:59.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:50903] logged in with entity id 102661 at (1117.1054340109508, 74.72427559920006, 2616.9974218239195)
+[25May2025 23:29:59.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[25May2025 23:29:59.869] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3416ms or 68 ticks
+[25May2025 23:30:42.860] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3112ms or 62 ticks
+[25May2025 23:30:55.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Voluntary Exile]
+[25May2025 23:31:24.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25May2025 23:31:52.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Vindicator
+[25May2025 23:31:56.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3027ms or 60 ticks
+[25May2025 23:32:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was mauled by Necromancer's undead
+[25May2025 23:32:32.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> [x:3251, y:93, z:410, dim:minecraft:overworld]
+[25May2025 23:32:56.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[25May2025 23:32:56.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp invel 3251 93<--[HERE]
+[25May2025 23:33:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[25May2025 23:33:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Invel666 3251 93<--[HERE]
