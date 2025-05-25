@@ -11413,3 +11413,22 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [25May2025 23:44:13.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was shot by Skeleton
 [25May2025 23:44:25.788] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3338ms or 66 ticks
 [25May2025 23:44:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was eviscerated by Archevoker's vexes
+[25May2025 23:45:14.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25May2025 23:45:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Voluntary Exile]
+[25May2025 23:46:03.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Stay dead]
+[25May2025 23:46:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Source of Evil]
+[25May2025 23:46:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has completed the challenge [Premium!]
+[25May2025 23:47:48.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 23:47:48.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 23:47:48.977] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3159ms or 63 ticks
+[25May2025 23:52:23.853] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25May2025 23:52:23.853] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25May2025 23:52:26.434] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[25May2025 23:52:48.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 23:52:48.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 23:53:07.738] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25May2025 23:53:07.738] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[25May2025 23:54:02.127] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25May2025 23:54:02.138] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[25May2025 23:54:12.653] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3073ms or 61 ticks
+[25May2025 23:54:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Forbidden Fruit]

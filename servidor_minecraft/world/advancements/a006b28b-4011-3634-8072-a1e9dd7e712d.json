@@ -80,6 +80,8 @@
       "dryland": "2025-05-25 21:54:12 +0000",
       "wasteland": "2025-05-25 21:45:04 +0000",
       "lush_desert": "2025-05-25 20:47:46 +0000",
+      "redwood_forest": "2025-05-25 23:50:32 +0000",
+      "seasonal_forest": "2025-05-25 23:52:34 +0000",
       "lavender_field": "2025-05-25 23:40:02 +0000",
       "grassland": "2025-05-25 22:46:41 +0000",
       "glowing_grotto": "2025-05-25 21:03:56 +0000"
@@ -1708,6 +1710,7 @@
       "minecraft:skeleton": "2025-05-25 21:08:01 +0000",
       "minecraft:spider": "2025-05-25 21:15:28 +0000",
       "minecraft:husk": "2025-05-25 20:40:10 +0000",
+      "minecraft:silverfish": "2025-05-25 23:44:12 +0000",
       "minecraft:zombie": "2025-05-25 20:45:25 +0000",
       "minecraft:zombie_villager": "2025-05-25 21:42:11 +0000"
     },
@@ -4741,6 +4744,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 23:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-25 23:41:46 +0000"
@@ -4819,6 +4828,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 23:47:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-05-25 23:41:46 +0000"
@@ -4858,6 +4873,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-25 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 23:47:46 +0000"
     },
     "done": true
   },
@@ -4960,6 +4981,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-25 23:35:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-05-25 23:44:02 +0000"
     },
     "done": true
   },
