@@ -71,12 +71,15 @@
       "minecraft:bamboo_jungle": "2025-05-25 23:28:10 +0000",
       "minecraft:badlands": "2025-05-25 18:55:27 +0000",
       "minecraft:beach": "2025-05-25 23:20:30 +0000",
+      "minecraft:dark_forest": "2025-05-25 23:42:27 +0000",
       "minecraft:sparse_jungle": "2025-05-25 23:20:26 +0000",
       "minecraft:lukewarm_ocean": "2025-05-25 18:55:13 +0000",
       "minecraft:river": "2025-05-25 18:55:35 +0000",
       "minecraft:stony_shore": "2025-05-25 18:55:11 +0000",
+      "minecraft:dripstone_caves": "2025-05-25 23:34:03 +0000",
       "minecraft:lush_caves": "2025-05-25 20:57:15 +0000",
       "minecraft:desert": "2025-05-25 18:55:27 +0000",
+      "minecraft:ocean": "2025-05-25 23:42:05 +0000",
       "minecraft:warm_ocean": "2025-05-25 18:55:42 +0000",
       "minecraft:savanna": "2025-05-25 18:54:05 +0000",
       "minecraft:plains": "2025-05-25 23:20:13 +0000"
@@ -99,7 +102,9 @@
       "wasteland": "2025-05-25 18:57:13 +0000",
       "lush_desert": "2025-05-25 21:17:32 +0000",
       "wasteland_steppe": "2025-05-25 21:30:59 +0000",
-      "glowing_grotto": "2025-05-25 20:56:46 +0000"
+      "volcanic_plains": "2025-05-25 23:40:21 +0000",
+      "glowing_grotto": "2025-05-25 20:56:46 +0000",
+      "rainforest": "2025-05-25 23:37:30 +0000"
     },
     "done": false
   },
@@ -4362,6 +4367,12 @@
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-05-25 23:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 23:37:49 +0000"
     },
     "done": true
   },

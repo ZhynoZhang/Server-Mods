@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "fd37754e-6564-30f7-9ff5-6379099d4f91",
+    "name": "Invel666",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6d5c9efa-f6e0-3bc0-9603-00c89e37f5fd",
     "name": "ZhynoDamned",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a006b28b-4011-3634-8072-a1e9dd7e712d",
+    "name": "Jota",
     "level": 4,
     "bypassesPlayerLimit": false
   }
