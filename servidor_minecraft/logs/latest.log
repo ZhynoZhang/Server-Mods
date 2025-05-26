@@ -1,60 +1,60 @@
-[26May2025 00:07:25.681] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[26May2025 00:07:25.684] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[26May2025 00:07:27.408] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[26May2025 00:07:27.461] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[26May2025 00:07:27.897] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[26May2025 00:07:27.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26May2025 00:07:27.905] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26May2025 00:07:27.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26May2025 00:07:28.147] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-Mods/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[26May2025 00:07:28.148] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[26May2025 00:07:30.813] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26May2025 00:07:30.934] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[26May2025 00:07:30.973] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
-[26May2025 00:07:31.055] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[26May2025 00:07:31.058] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26May2025 00:07:31.089] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[26May2025 00:07:31.215] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[26May2025 00:07:31.239] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 130 options available, 0 override(s) found
-[26May2025 00:07:31.257] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[26May2025 00:07:31.284] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[26May2025 00:07:31.316] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[26May2025 00:07:32.329] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[26May2025 00:07:32.330] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[26May2025 00:07:32.331] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[26May2025 00:07:32.979] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
-[26May2025 00:07:32.979] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
-[26May2025 00:07:32.980] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found the_bumblezone-common.mixins.json:client.ParticleEngineAccessor
-[26May2025 00:07:33.291] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[26May2025 00:07:39.207] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zka000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[26May2025 00:07:39.953] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[26May2025 21:35:41.906] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26May2025 21:35:41.909] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[26May2025 21:35:43.393] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26May2025 21:35:43.448] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26May2025 21:35:43.807] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26May2025 21:35:43.810] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26May2025 21:35:43.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26May2025 21:35:43.812] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26May2025 21:35:44.064] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-Mods/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[26May2025 21:35:44.064] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[26May2025 21:35:46.674] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26May2025 21:35:46.800] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[26May2025 21:35:46.838] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[26May2025 21:35:46.902] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[26May2025 21:35:46.905] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26May2025 21:35:46.925] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[26May2025 21:35:47.022] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[26May2025 21:35:47.043] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 130 options available, 0 override(s) found
+[26May2025 21:35:47.060] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[26May2025 21:35:47.092] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[26May2025 21:35:47.123] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[26May2025 21:35:47.943] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[26May2025 21:35:47.944] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[26May2025 21:35:47.944] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[26May2025 21:35:48.526] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
+[26May2025 21:35:48.527] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
+[26May2025 21:35:48.527] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found the_bumblezone-common.mixins.json:client.ParticleEngineAccessor
+[26May2025 21:35:48.748] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[26May2025 21:35:55.269] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zka000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26May2025 21:35:56.028] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[26May2025 00:07:40.678] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
-[26May2025 00:07:40.678] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
-[26May2025 00:07:40.683] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
-[26May2025 00:07:40.684] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
-[26May2025 00:07:40.685] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
-[26May2025 00:07:40.688] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
-[26May2025 00:07:40.699] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
-[26May2025 00:07:40.714] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[26May2025 00:07:40.719] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[26May2025 00:07:40.720] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entities Types ...
-[26May2025 00:07:40.738] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[26May2025 00:07:40.742] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[26May2025 00:07:40.747] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[26May2025 00:07:40.747] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
-[26May2025 00:07:40.750] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
-[26May2025 00:07:40.751] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
-[26May2025 00:07:40.764] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
-[26May2025 00:07:40.788] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC common config ...
-[26May2025 00:07:40.794] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
-[26May2025 00:07:40.806] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
-[26May2025 00:07:40.811] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
-[26May2025 00:07:40.829] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC client config ...
-[26May2025 00:07:40.944] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[26May2025 00:07:40.962] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[26May2025 00:07:41.242] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@67bd351e on thread Thread[modloading-worker-0,5,main]
-[26May2025 00:07:41.245] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[26May2025 21:35:56.522] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[26May2025 21:35:56.523] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[26May2025 21:35:56.535] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[26May2025 21:35:56.536] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[26May2025 21:35:56.536] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[26May2025 21:35:56.539] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[26May2025 21:35:56.544] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[26May2025 21:35:56.572] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entities Types ...
+[26May2025 21:35:56.566] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[26May2025 21:35:56.573] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[26May2025 21:35:56.586] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[26May2025 21:35:56.592] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[26May2025 21:35:56.596] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[26May2025 21:35:56.596] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[26May2025 21:35:56.600] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[26May2025 21:35:56.602] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[26May2025 21:35:56.620] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[26May2025 21:35:56.637] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC common config ...
+[26May2025 21:35:56.643] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[26May2025 21:35:56.660] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[26May2025 21:35:56.666] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[26May2025 21:35:56.688] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC client config ...
+[26May2025 21:35:56.814] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[26May2025 21:35:56.840] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[26May2025 21:35:57.013] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@67bd351e on thread Thread[modloading-worker-0,5,main]
+[26May2025 21:35:57.016] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -102,132 +102,133 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[26May2025 00:07:41.252] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[26May2025 00:07:41.297] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[26May2025 00:07:41.592] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[26May2025 00:07:41.593] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[26May2025 00:07:41.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[26May2025 00:07:41.604] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[26May2025 00:07:41.605] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[26May2025 00:07:41.609] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[26May2025 00:07:41.614] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[26May2025 00:07:41.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[26May2025 00:07:42.137] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[26May2025 00:07:42.252] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[26May2025 00:07:42.256] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[26May2025 00:07:42.288] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[26May2025 00:07:42.288] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[26May2025 00:07:43.654] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[26May2025 00:07:44.448] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@754e3050 has been registered twice for the same name treechop:chop_wood.
-[26May2025 00:07:52.009] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[26May2025 00:07:52.009] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[26May2025 00:07:52.009] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[26May2025 00:07:52.582] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[26May2025 00:07:52.583] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[26May2025 00:07:52.583] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[26May2025 00:07:52.584] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[26May2025 00:07:52.584] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[26May2025 00:07:52.584] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[26May2025 00:07:52.586] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[26May2025 00:07:52.587] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[26May2025 00:07:52.587] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
-[26May2025 00:07:52.588] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
-[26May2025 00:07:52.588] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
-[26May2025 00:07:53.145] [main/WARN] [Easy NPC/]: [Custom Entity Data] Please define a custom index instead of using the auto-generated.
-[26May2025 00:07:53.150] [main/INFO] [Easy NPC/]: Register data serializers ...
-[26May2025 00:07:53.150] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.151] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[26May2025 00:07:53.151] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
-[26May2025 00:07:53.151] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.152] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.152] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.152] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.152] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.153] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.154] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.154] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
-[26May2025 00:07:53.154] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.154] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
-[26May2025 00:07:53.154] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.154] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
-[26May2025 00:07:53.155] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.155] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
-[26May2025 00:07:53.155] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.155] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
-[26May2025 00:07:53.155] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[26May2025 00:07:53.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[26May2025 00:07:53.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[26May2025 00:07:53.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
-[26May2025 00:07:53.156] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.156] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
-[26May2025 00:07:53.157] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.157] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.158] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.158] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
-[26May2025 00:07:53.158] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
-[26May2025 00:07:53.158] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
-[26May2025 00:07:53.181] [main/INFO] [Easy NPC/]: Register model data serializers for ...
-[26May2025 00:07:53.181] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
-[26May2025 00:07:53.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.183] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.183] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.183] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.183] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
-[26May2025 00:07:53.183] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
-[26May2025 00:07:53.183] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
-[26May2025 00:07:53.185] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
-[26May2025 00:07:53.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
-[26May2025 00:07:53.187] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
-[26May2025 00:07:53.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.188] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.188] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.188] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.188] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
-[26May2025 00:07:53.189] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
-[26May2025 00:07:53.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[26May2025 00:07:53.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[26May2025 00:07:53.189] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
-[26May2025 00:07:53.225] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[26May2025 00:07:53.510] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@5556f50c with version 21 ...
-[26May2025 00:07:53.635] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[26May2025 00:07:53.636] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[26May2025 00:07:53.639] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[26May2025 00:07:53.645] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
-[26May2025 00:07:54.082] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[26May2025 00:07:54.692] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26May2025 21:35:57.018] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[26May2025 21:35:57.088] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[26May2025 21:35:57.309] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26May2025 21:35:57.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26May2025 21:35:57.316] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26May2025 21:35:57.321] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26May2025 21:35:57.322] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26May2025 21:35:57.323] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26May2025 21:35:57.325] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26May2025 21:35:57.329] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26May2025 21:35:57.770] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[26May2025 21:35:57.886] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26May2025 21:35:57.888] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26May2025 21:35:57.906] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[26May2025 21:35:57.908] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[26May2025 21:35:59.127] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26May2025 21:35:59.674] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@703483c2 has been registered twice for the same name treechop:chop_wood.
+[26May2025 21:36:08.001] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[26May2025 21:36:08.001] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[26May2025 21:36:08.001] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[26May2025 21:36:08.608] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[26May2025 21:36:08.608] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[26May2025 21:36:08.608] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[26May2025 21:36:08.609] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[26May2025 21:36:08.609] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[26May2025 21:36:08.610] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[26May2025 21:36:08.612] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[26May2025 21:36:08.612] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[26May2025 21:36:08.612] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[26May2025 21:36:08.614] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[26May2025 21:36:08.614] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[26May2025 21:36:09.262] [main/WARN] [Easy NPC/]: [Custom Entity Data] Please define a custom index instead of using the auto-generated.
+[26May2025 21:36:09.266] [main/INFO] [Easy NPC/]: Register data serializers ...
+[26May2025 21:36:09.267] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[26May2025 21:36:09.267] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[26May2025 21:36:09.267] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.268] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[26May2025 21:36:09.269] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.270] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[26May2025 21:36:09.270] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.270] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[26May2025 21:36:09.270] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.270] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[26May2025 21:36:09.270] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.271] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[26May2025 21:36:09.271] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[26May2025 21:36:09.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[26May2025 21:36:09.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[26May2025 21:36:09.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[26May2025 21:36:09.274] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[26May2025 21:36:09.274] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.275] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[26May2025 21:36:09.275] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[26May2025 21:36:09.276] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[26May2025 21:36:09.303] [main/INFO] [Easy NPC/]: Register model data serializers for ...
+[26May2025 21:36:09.305] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[26May2025 21:36:09.308] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.308] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.308] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.309] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[26May2025 21:36:09.312] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[26May2025 21:36:09.313] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.313] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[26May2025 21:36:09.314] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[26May2025 21:36:09.315] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.315] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.315] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.315] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.319] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.320] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.320] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[26May2025 21:36:09.320] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[26May2025 21:36:09.321] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.321] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.321] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.322] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.322] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.322] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.323] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.323] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.324] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.324] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.325] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[26May2025 21:36:09.325] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[26May2025 21:36:09.325] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[26May2025 21:36:09.326] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[26May2025 21:36:09.326] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[26May2025 21:36:09.389] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[26May2025 21:36:09.546] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@7359b679 with version 21 ...
+[26May2025 21:36:09.676] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[26May2025 21:36:09.677] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[26May2025 21:36:09.681] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[26May2025 21:36:09.688] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[26May2025 21:36:10.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[26May2025 21:36:10.443] [main/INFO] [journeymap/]: Initializing Packet Registries
+[26May2025 21:36:10.466] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -242,10 +243,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[26May2025 00:07:54.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[26May2025 00:07:54.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[26May2025 00:07:54.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[26May2025 00:07:54.777] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26May2025 21:36:10.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[26May2025 21:36:10.472] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[26May2025 21:36:10.472] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[26May2025 21:36:10.474] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[26May2025 21:36:10.476] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[26May2025 21:36:10.491] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[26May2025 21:36:10.492] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[26May2025 21:36:10.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[26May2025 21:36:10.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[26May2025 21:36:10.526] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -260,34 +272,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[26May2025 00:07:54.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[26May2025 00:07:54.809] [main/INFO] [journeymap/]: Initializing Packet Registries
-[26May2025 00:07:54.824] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[26May2025 00:07:54.824] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[26May2025 00:07:54.824] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[26May2025 00:07:54.827] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[26May2025 00:07:54.852] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[26May2025 00:07:54.853] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[26May2025 00:07:54.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
-[26May2025 00:07:54.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26May2025 00:07:55.010] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[26May2025 00:07:55.076] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[26May2025 00:07:55.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[26May2025 00:07:55.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[26May2025 00:07:55.092] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[26May2025 00:07:55.092] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[26May2025 00:07:55.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[26May2025 00:07:55.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[26May2025 00:07:55.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.20
-[26May2025 00:07:55.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[26May2025 00:07:55.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[26May2025 00:07:55.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[26May2025 00:07:55.725] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26May2025 21:36:10.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[26May2025 21:36:10.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[26May2025 21:36:10.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26May2025 21:36:10.618] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[26May2025 21:36:10.656] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[26May2025 21:36:10.679] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[26May2025 21:36:10.679] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[26May2025 21:36:10.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26May2025 21:36:10.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[26May2025 21:36:11.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[26May2025 21:36:11.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[26May2025 21:36:11.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.20
+[26May2025 21:36:11.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[26May2025 21:36:11.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[26May2025 21:36:11.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[26May2025 21:36:11.336] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -302,8 +302,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[26May2025 00:07:55.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[26May2025 00:07:55.795] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26May2025 21:36:11.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[26May2025 21:36:11.362] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -318,8 +318,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[26May2025 00:07:55.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[26May2025 00:07:55.812] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26May2025 21:36:11.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[26May2025 21:36:11.390] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -334,12 +334,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[26May2025 00:08:00.923] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26May2025 00:08:05.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/assets/.mcassetsroot' uses unexpected schema
-[26May2025 00:08:05.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/data/.mcassetsroot' uses unexpected schema
-[26May2025 00:08:07.718] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
-[26May2025 00:08:07.947] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
-[26May2025 00:08:09.048] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[26May2025 21:36:17.192] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26May2025 21:36:22.078] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/assets/.mcassetsroot' uses unexpected schema
+[26May2025 21:36:22.078] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23259!/data/.mcassetsroot' uses unexpected schema
+[26May2025 21:36:24.821] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[26May2025 21:36:25.002] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[26May2025 21:36:26.146] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -391,7 +391,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[26May2025 00:08:09.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[26May2025 21:36:26.609] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -429,7 +429,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.510] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[26May2025 21:36:26.757] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -467,7 +467,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_ishi
+[26May2025 21:36:26.771] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_ishi
 com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -506,7 +506,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[26May2025 21:36:26.777] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23264!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23264!/:?]
@@ -539,7 +539,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.617] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
+[26May2025 21:36:26.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -577,7 +577,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.670] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[26May2025 21:36:26.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -606,7 +606,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.695] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:tofu_diamond_blade
+[26May2025 21:36:26.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:tofu_diamond_blade
 com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofu_upgrade_smithing_template'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -644,7 +644,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofu_upgrade_smithi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.712] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_metal
+[26May2025 21:36:26.973] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_metal
 com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -683,524 +683,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26May2025 00:08:09.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
-[26May2025 00:08:09.817] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement slashblade_addon:recipes/combat/tofu_diamond_blade: Unknown item id 'slashblade_addon:slashblade_tofu_metal'
-[26May2025 00:08:09.897] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
-[26May2025 00:08:09.927] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3599 advancements
-[26May2025 00:08:10.032] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[26May2025 00:08:10.041] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[26May2025 00:08:10.042] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[26May2025 00:08:14.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[26May2025 00:08:14.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26May2025 00:08:14.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26May2025 00:08:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26May2025 00:08:14.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26May2025 00:08:14.746] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26May2025 00:08:14.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26May2025 00:08:14.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26May2025 00:08:14.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26May2025 00:08:14.827] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26May2025 00:08:14.844] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26May2025 00:08:14.844] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26May2025 00:08:14.845] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26May2025 00:08:15.045] [Server thread/INFO] [Framework/]: Loading server configs...
-[26May2025 00:08:15.508] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[26May2025 00:08:15.509] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[26May2025 00:08:15.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26May2025 00:08:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26May2025 00:08:24.991] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:24.991] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:25.150] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:26.760] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:28.038] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:28.520] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.556] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.593] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.605] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.610] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.625] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.648] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:28.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:29.182] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:29.553] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:29.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26May2025 00:08:30.014] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[26May2025 00:08:30.719] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6206 ms
-[26May2025 00:08:30.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.879s)! For help, type "help"
-[26May2025 00:08:30.779] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26May2025 00:08:30.782] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26May2025 00:08:41.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:49847] logged in with entity id 217 at (3475.741729226764, 148.20000004768372, 136.58187493971212)
-[26May2025 00:08:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
-[26May2025 00:08:42.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:50761] logged in with entity id 218 at (1100.5, 95.0, 55.5)
-[26May2025 00:08:42.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
-[26May2025 00:08:44.774] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4187ms or 83 ticks
-[26May2025 00:08:44.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
-[26May2025 00:08:44.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:57999] logged in with entity id 229 at (3475.650096858443, 147.0, 136.39819359724018)
-[26May2025 00:08:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
-[26May2025 00:08:49.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mererio48[/127.158.200.124:33423] logged in with entity id 450 at (1099.5340162885595, 91.0, 68.00495023137012)
-[26May2025 00:08:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 joined the game
-[26May2025 00:08:53.883] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: IronGolem['Iron Golem'/571, l='ServerLevel[world]', x=3304.14, y=93.00, z=229.83]
-[26May2025 00:08:53.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Farmer'/578, l='ServerLevel[world]', x=3310.48, y=102.38, z=199.45]
-[26May2025 00:08:53.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Farmer'/579, l='ServerLevel[world]', x=3311.12, y=102.00, z=199.70]
-[26May2025 00:08:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hovering Hurricane
-[26May2025 00:08:59.847] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
-[26May2025 00:09:02.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
-[26May2025 00:09:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 00:09:17.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/959, l='ServerLevel[world]', x=3477.55, y=107.00, z=337.70]
-[26May2025 00:09:32.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/75, l='ServerLevel[world]', x=1019.70, y=70.50, z=94.40] died, message: 'Golem Healer was slain by Husk'
-[26May2025 00:09:32.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/75, l='ServerLevel[world]', x=1019.70, y=70.50, z=94.40] died: Golem Healer was slain by Husk
-[26May2025 00:10:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Stratling
-[26May2025 00:10:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Hovering Hurricane
-[26May2025 00:11:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported ZhynoDamned to Jota]
-[26May2025 00:11:27.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made mererio48 a server operator
-[26May2025 00:11:28.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported mererio48 to Jota]
-[26May2025 00:13:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Cover Me with Diamonds]
-[26May2025 00:13:36.390] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3334ms or 66 ticks
-[26May2025 00:14:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Invel666 to Jota]
-[26May2025 00:14:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was doomed to fall by Stratling
-[26May2025 00:14:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Invel666 to Jota]
-[26May2025 00:15:19.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Forbidden Fruit]
-[26May2025 00:15:28.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
-[26May2025 00:15:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
-[26May2025 00:15:28.250] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[26May2025 00:15:41.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:33927] logged in with entity id 2776 at (3424.8587173227183, 155.0, 152.72953810697456)
-[26May2025 00:15:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
-[26May2025 00:16:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Proud Soul]
-[26May2025 00:17:20.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! 5.529539343256602,-2.0,-8.173263458823783
-[26May2025 00:17:47.352] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3725, y=16, z=243}
-[26May2025 00:17:48.052] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3716, y=-11, z=349}
-[26May2025 00:17:48.053] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3715, y=-11, z=349}
-[26May2025 00:18:48.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/1046, l='ServerLevel[world]', x=1010.70, y=64.50, z=123.70] died: Golem Healer hit the ground too hard
-[26May2025 00:19:23.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Stone Age]
-[26May2025 00:19:59.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Wild Harvest]
-[26May2025 00:20:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported mererio48 to Jota]
-[26May2025 00:21:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Isn't It Iron Pick]
-[26May2025 00:21:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Tools of the Trade]
-[26May2025 00:23:27.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
-[26May2025 00:23:27.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
-[26May2025 00:23:42.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:38873] logged in with entity id 5069 at (3621.285497803301, 130.0, 163.93130281054496)
-[26May2025 00:23:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
-[26May2025 00:25:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [Quaint Scribe]
-[26May2025 00:26:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Sweet Dreams]
-[26May2025 00:26:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Sweet Dreams]
-[26May2025 00:26:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Sweet Dreams]
-[26May2025 00:26:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jota> pp
-[26May2025 00:26:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> zzzzzzzzzzzzzzzzzzz
-[26May2025 00:26:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> zzzzzzzzzzzzzz
-[26May2025 00:26:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> zzzzzzzzzzzzzzzzzzzzzzzzzzz
-[26May2025 00:26:53.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3163ms or 63 ticks
-[26May2025 00:27:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported 4 entities to Invel666]
-[26May2025 00:27:08.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [A Terrifying Entrance]
-[26May2025 00:28:58.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Possessed Paladin
-[26May2025 00:29:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported mererio48 to Jota]
-[26May2025 00:29:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported mererio48 to Jota]
-[26May2025 00:29:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:30:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:30:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:30:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:30:33.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved wrongly!
-[26May2025 00:30:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:31:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:31:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:32:21.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:32:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Invel666 to Jota]
-[26May2025 00:32:55.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:33:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:33:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Invel666 to Jota]
-[26May2025 00:33:57.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported ZhynoDamned to Jota]
-[26May2025 00:34:50.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:34:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
-[26May2025 00:35:04.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:35:20.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Possessed Paladin
-[26May2025 00:35:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
-[26May2025 00:36:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Possessed Paladin
-[26May2025 00:36:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:36:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 00:36:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Ol' Betsy]
-[26May2025 00:36:45.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Possessed Paladin
-[26May2025 00:37:13.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Diamonds!]
-[26May2025 00:40:04.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Best Friends Forever]
-[26May2025 00:44:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Cover Me with Diamonds]
-[26May2025 00:48:36.184] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3194ms or 63 ticks
-[26May2025 00:50:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Take Aim]
-[26May2025 00:51:38.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Ol' Betsy]
-[26May2025 00:51:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Take Aim]
-[26May2025 00:51:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Wingin' It]
-[26May2025 00:52:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Take Aim]
-[26May2025 00:52:13.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Wingin' It]
-[26May2025 00:53:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Anonymity -Wood-]
-[26May2025 00:54:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Blade Arts -Combo A-              ]
-[26May2025 00:55:01.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Timed out
-[26May2025 00:55:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
-[26May2025 00:55:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Anonymity -Wood-]
-[26May2025 00:56:28.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
-[26May2025 00:56:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Anonymity -Bamboo Light-]
-[26May2025 00:56:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Blade Arts -Combo C-              ]
-[26May2025 00:57:58.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Abilities -Kick Jump-            ]
-[26May2025 00:58:31.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Not Today, Thank You]
-[26May2025 00:58:41.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Blade Arts -Aerial Rave A-       ]
-[26May2025 00:58:52.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Blade Arts -Combo B-              ]
-[26May2025 00:59:22.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:41999] logged in with entity id 14424 at (2636.522261218451, 100.0, 395.0013220450426)
-[26May2025 00:59:22.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
-[26May2025 00:59:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Blade Arts -Aerial Rave B-       ]
-[26May2025 01:00:09.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Anonymity -Bamboo Light-]
-[26May2025 01:00:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [Sandwich Snack]
-[26May2025 01:00:48.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Anonymity -Wood-]
-[26May2025 01:00:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Blade Arts -Combo A-              ]
-[26May2025 01:01:00.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Blade Arts -Aerial Rave A-       ]
-[26May2025 01:01:23.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
-[26May2025 01:01:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
-[26May2025 01:01:35.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:46179] logged in with entity id 15184 at (2755.084197326166, 111.0, 391.5507194841452)
-[26May2025 01:01:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
-[26May2025 01:01:41.023] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3086ms or 61 ticks
-[26May2025 01:01:58.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! 8.001997190752718,-2.3054384517512148,-5.746592133945057
-[26May2025 01:02:11.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! 4.194583128929025,-9.33347890962898,-1.9860664604111093
-[26May2025 01:03:36.200] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3044ms or 60 ticks
-[26May2025 01:04:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported ZhynoDamned to Invel666]
-[26May2025 01:04:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
-[26May2025 01:06:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Ice Maze]
-[26May2025 01:07:41.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Sneak 100]
-[26May2025 01:09:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Sneak 100]
-[26May2025 01:11:39.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
-[26May2025 01:13:14.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported mererio48 to ZhynoDamned]
-[26May2025 01:13:30.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
-[26May2025 01:15:09.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved wrongly! 0.44631005324237094
-[26May2025 01:15:28.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [The Light In The Darkness]
-[26May2025 01:16:57.049] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3082ms or 61 ticks
-[26May2025 01:17:25.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Almost Like a Fan]
-[26May2025 01:18:57.875] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3104ms or 62 ticks
-[26May2025 01:19:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Alex's Caves]
-[26May2025 01:20:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Masquerade]
-[26May2025 01:20:59.307] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3015ms or 60 ticks
-[26May2025 01:21:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Gravedigger]
-[26May2025 01:21:32.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Gravedigger]
-[26May2025 01:21:42.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved too quickly! 3.1307762368946896,0.49520087700592796,-9.579242434155049
-[26May2025 01:21:42.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! 1.4970164987971657,-1.0,-9.922503155453569
-[26May2025 01:21:42.692] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5278ms or 105 ticks
-[26May2025 01:21:42.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
-[26May2025 01:23:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Hunt and Gather]
-[26May2025 01:23:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [We Need to Go Deeper]
-[26May2025 01:23:47.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5266ms or 105 ticks
-[26May2025 01:23:47.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
-[26May2025 01:24:16.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [We Need to Go Deeper]
-[26May2025 01:24:44.031] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[26May2025 01:24:44.035] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[26May2025 01:24:46.722] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3349ms or 66 ticks
-[26May2025 01:25:38.920] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
-[26May2025 01:25:59.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/34871, l='ServerLevel[world]', x=3290.01, y=166.00, z=840.70] died, message: 'Golem Healer was slain by Zombie'
-[26May2025 01:25:59.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/34871, l='ServerLevel[world]', x=3290.01, y=166.00, z=840.70] died: Golem Healer was slain by Zombie
-[26May2025 01:26:11.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/35830, l='ServerLevel[world]', x=3295.32, y=166.00, z=852.56] died: Golem Healer was laid to rest by Priest
-[26May2025 01:26:43.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Timed out
-[26May2025 01:26:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
-[26May2025 01:27:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 01:27:48.275] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
-[26May2025 01:32:21.160] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3144ms or 62 ticks
-[26May2025 01:32:47.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Fruits of the Field]
-[26May2025 01:34:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [Plant Food]
-[26May2025 01:35:39.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [A Seedy Place]
-[26May2025 01:36:01.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Crops of the Wild]
-[26May2025 01:37:26.490] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3163ms or 63 ticks
-[26May2025 01:37:43.433] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3210ms or 64 ticks
-[26May2025 01:38:00.600] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3771ms or 75 ticks
-[26May2025 01:38:11.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:45307] logged in with entity id 43034 at (2154.3804854103732, 66.0, -637.396833060205)
-[26May2025 01:38:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
-[26May2025 01:38:24.239] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3109ms or 62 ticks
-[26May2025 01:38:46.011] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3124ms or 62 ticks
-[26May2025 01:38:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 01:39:12.734] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3135ms or 62 ticks
-[26May2025 01:39:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Tools of the Trade]
-[26May2025 01:39:48.038] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3111ms or 62 ticks
-[26May2025 01:42:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Fruits of the Field]
-[26May2025 01:43:43.021] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3212ms or 64 ticks
-[26May2025 01:48:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Vindicator
-[26May2025 01:48:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 01:49:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota went off with a bang thanks to Archevoker
-[26May2025 01:49:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 01:49:42.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was caught by Archevoker's fangs
-[26May2025 01:49:48.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was caught by Archevoker's fangs
-[26May2025 01:49:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 01:49:59.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was caught by Archevoker's fangs
-[26May2025 01:50:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
-[26May2025 01:52:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
-[26May2025 01:53:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was blown up by Skeleton Creeper
-[26May2025 01:53:56.195] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3416ms or 68 ticks
-[26May2025 01:54:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
-[26May2025 01:54:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported ZhynoDamned to Jota]
-[26May2025 01:55:11.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 0.2801138623153747
-[26May2025 01:55:11.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 0.6915698596499169
-[26May2025 01:55:11.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 1.1600550435937294
-[26May2025 01:55:27.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 0.35275848550827504
-[26May2025 01:55:27.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 0.884661279770171
-[26May2025 01:55:27.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 1.5024425944552604
-[26May2025 01:56:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Ice Bucket Challenge]
-[26May2025 01:56:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Amateur Archaeologist]
-[26May2025 01:57:14.462] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3136ms or 62 ticks
-[26May2025 01:57:25.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 0.637675495368967
-[26May2025 01:57:25.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 1.2194343845212643
-[26May2025 01:57:25.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of mererio48) moved wrongly! 1.5307219670858103
-[26May2025 01:58:09.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Crops of the Wild]
-[26May2025 01:59:12.083] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2755, y=2, z=-2263}
-[26May2025 01:59:40.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
-[26May2025 01:59:53.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.1286730767683366,0.0,-9.897155193143135
-[26May2025 01:59:53.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.239657339774112,0.0,-10.281276129934213
-[26May2025 01:59:53.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.3503631379439867,0.0,-10.665493770265584
-[26May2025 01:59:53.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.4608146260056856,0.0,-11.049799483137122
-[26May2025 01:59:53.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.5710335432131615,0.0,-11.43418549692342
-[26May2025 01:59:53.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.6810357622011907,0.0,-11.818645852792088
-[26May2025 01:59:53.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.790842952796538,0.0,-12.203173116533435
-[26May2025 01:59:53.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.9004709251489658,0.0,-12.587761636714731
-[26May2025 01:59:53.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.009933909324445,0.0,-12.972406319595848
-[26May2025 01:59:53.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.119244710519524,0.0,-13.357102584535824
-[26May2025 01:59:53.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.228418547035744,0.0,-13.741845273327726
-[26May2025 01:59:53.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.337465422649984,0.0,-14.126630779216157
-[26May2025 01:59:53.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.446398033455807,0.0,-14.511454820490144
-[26May2025 01:59:53.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9617ms or 192 ticks behind
-[26May2025 01:59:54.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 2.868512589902366,0.0,-9.993473100581468
-[26May2025 01:59:54.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 2.9939682772560445,0.0,-10.372580694789576
-[26May2025 01:59:54.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.124119140692528,0.0,-10.749871239841923
-[26May2025 01:59:54.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.259126236792781,0.0,-11.125218415068957
-[26May2025 01:59:54.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.399071186540368,0.0,-11.498527612808175
-[26May2025 01:59:54.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.543965383619252,0.0,-11.869735620674874
-[26May2025 01:59:54.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.6937615731767437,0.0,-12.238808145134954
-[26May2025 01:59:54.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 3.8483740981596384,0.0,-12.605731428542185
-[26May2025 01:59:54.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.007680152322791,0.0,-12.97051355948497
-[26May2025 01:59:54.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.17153411967638,0.0,-13.333177765660821
-[26May2025 01:59:54.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.339770369551388,0.0,-13.693761842462663
-[26May2025 01:59:54.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.512209005709792,0.0,-14.052315530193937
-[26May2025 01:59:54.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.688660928784429,0.0,-14.408897956120654
-[26May2025 01:59:54.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.868932319833675,0.0,-14.763575175856204
-[26May2025 01:59:54.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.0528285879940995,0.0,-15.116417833949072
-[26May2025 01:59:54.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.240154654426078,0.0,-15.467501021637418
-[26May2025 01:59:54.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.430718381812767,0.0,-15.816902025415402
-[26May2025 01:59:54.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.624330421768718,0.0,-16.164700327299215
-[26May2025 01:59:54.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.514759937019335,0.0,-9.286078146901218
-[26May2025 01:59:54.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.7283414561957215,0.0,-9.622902356268696
-[26May2025 01:59:54.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 4.9434495486120795,0.0,-9.95885098018789
-[26May2025 01:59:54.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.159972427067714,0.0,-10.293983030325307
-[26May2025 01:59:54.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.377806309137213,0.0,-10.628353766671353
-[26May2025 01:59:54.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.596854622281626,0.0,-10.96201508388458
-[26May2025 01:59:54.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 5.817024155476702,0.0,-11.295018068098216
-[26May2025 01:59:54.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 6.038231000176893,0.0,-11.627408674478374
-[26May2025 01:59:54.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 6.260396490822586,0.0,-11.95923044569463
-[26May2025 01:59:54.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 6.483446682404519,0.0,-12.29052476806919
-[26May2025 01:59:54.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 6.707311885858871,0.0,-12.621331094662764
-[26May2025 01:59:54.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 6.93192937171716,0.0,-12.951684922053573
-[26May2025 01:59:54.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.157239550489521,0.0,-13.281620402532553
-[26May2025 01:59:54.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.383185660530216,0.0,-13.611170489709366
-[26May2025 01:59:54.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.609719736290117,0.0,-13.940362614107471
-[26May2025 01:59:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.836792355876241,0.0,-14.269225903743518
-[26May2025 01:59:54.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.06436216137945,0.0,-14.597784342382965
-[26May2025 01:59:54.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.292388803301037,0.0,-14.926061739412944
-[26May2025 01:59:54.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.520832845300447,0.0,-15.254081747279088
-[26May2025 01:59:54.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.749661914602257,0.0,-15.581863429183613
-[26May2025 01:59:54.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.978843752053763,0.0,-15.909426158555561
-[26May2025 01:59:54.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.208349322555023,0.0,-16.236787375206404
-[26May2025 01:59:54.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.438152494517453,0.0,-16.563962774966058
-[26May2025 01:59:54.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.668226629581568,0.0,-16.890968711804362
-[26May2025 01:59:54.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.898550869428618,0.0,-17.21781766911954
-[26May2025 01:59:54.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.129103325368305,0.0,-17.54452311714431
-[26May2025 01:59:54.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.359864293853661,0.0,-17.871097175362138
-[26May2025 01:59:54.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.59081604541825,0.0,-18.197550751307972
-[26May2025 01:59:54.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.821942619817492,0.0,-18.52389366176294
-[26May2025 01:59:54.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.053229654694405,0.0,-18.85013474555535
-[26May2025 01:59:54.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.284664223928303,0.0,-19.17628195390489
-[26May2025 01:59:54.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.516234692147918,0.0,-19.50234244290914
-[26May2025 01:59:54.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.747927469451497,0.0,-19.828324884504582
-[26May2025 01:59:54.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.979733442995439,0.0,-20.154234848259875
-[26May2025 01:59:54.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.211641293153207,0.0,-20.480079581961036
-[26May2025 01:59:54.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.443643950328806,0.0,-20.805863377166133
-[26May2025 01:59:54.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.372909771390823,0.0,-12.183274730256471
-[26May2025 01:59:54.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.605077664765759,0.0,-12.508952089187915
-[26May2025 01:59:54.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.837317477036322,0.0,-12.834583015654971
-[26May2025 01:59:54.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.06962201631086,0.0,-13.160172152905488
-[26May2025 01:59:54.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.301984809887472,0.0,-13.485723679862076
-[26May2025 01:59:54.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.534403152264986,0.0,-13.811239122380812
-[26May2025 01:59:54.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.766871488562629,0.0,-14.136722088906481
-[26May2025 01:59:54.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.999384819386705,0.0,-14.462175827038664
-[26May2025 01:59:54.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.231938645283662,0.0,-14.787603259617754
-[26May2025 01:59:54.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.464528916745166,0.0,-15.113007017199834
-[26May2025 01:59:54.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.69715510728156,0.0,-15.438387235836217
-[26May2025 01:59:54.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.929813624984945,0.0,-15.763746269421972
-[26May2025 01:59:54.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.162501237137803,0.0,-16.089086236462663
-[26May2025 01:59:54.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.395215034294324,0.0,-16.414409043612977
-[26May2025 01:59:54.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.627952397953777,0.0,-16.7397164068625
-[26May2025 01:59:54.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.860710971464869,0.0,-17.065009870601898
-[26May2025 01:59:54.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.093488633842298,0.0,-17.39029082478237
-[26May2025 01:59:54.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.326283476199023,0.0,-17.715560520360214
-[26May2025 01:59:54.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.559093780536386,0.0,-18.04082008319574
-[26May2025 01:59:54.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.791918000656096,0.0,-18.366070526563817
-[26May2025 01:59:54.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.024754744979418,0.0,-18.691312762411144
-[26May2025 01:59:54.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.257602761086218,0.0,-19.01654761148984
-[26May2025 01:59:54.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.490464038002756,0.0,-19.341773581028065
-[26May2025 01:59:54.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.723337249648011,0.0,-19.6669915589805
-[26May2025 01:59:54.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.956221202548477,0.0,-19.992202344505586
-[26May2025 01:59:54.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.189114822578631,0.0,-20.317406656846288
-[26May2025 01:59:54.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.422017143025187,0.0,-20.642605143320907
-[26May2025 01:59:54.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.654927293846413,0.0,-20.967798386516733
-[26May2025 01:59:54.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.88784449200466,0.0,-21.292986910761556
-[26May2025 01:59:54.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.120768032765682,0.0,-21.618171187950338
-[26May2025 01:59:54.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.353697281869245,0.0,-21.94335164278891
-[26May2025 01:59:54.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.58663166848146,0.0,-22.268528657512434
-[26May2025 01:59:54.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.818999813502614,0.0,-22.59410413262458
-[26May2025 01:59:54.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.04975413153352,0.0,-22.920773888679832
-[26May2025 01:59:54.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.277441866827758,0.0,-23.24941256279226
-[26May2025 01:59:54.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.500252727503266,0.0,-23.580962766081484
-[26May2025 01:59:54.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.716075660977822,0.0,-23.91631898997821
-[26May2025 01:59:54.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.922539028376377,0.0,-24.256226388982668
-[26May2025 01:59:54.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.117063967682952,0.0,-24.60118368742951
-[26May2025 01:59:54.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.296926246988278,0.0,-24.9513574309849
-[26May2025 01:59:54.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.459327667341768,0.0,-25.306510341323246
-[26May2025 01:59:54.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.60147667095771,0.0,-25.66594621189506
-[26May2025 01:59:54.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.720669173177612,0.0,-26.028471605475715
-[26May2025 01:59:54.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.814394637684927,0.0,-26.392380302706442
-[26May2025 01:59:54.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.880428203771316,0.0,-26.755456542702632
-[26May2025 01:59:54.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.916932811264815,0.0,-27.115003446662286
-[26May2025 01:59:54.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.92255448901051,0.0,-27.467893990693028
-[26May2025 01:59:54.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.896504682573322,0.0,-27.81063926848492
-[26May2025 01:59:54.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.83863494149091,0.0,-28.13947972072674
-[26May2025 01:59:54.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.749763492512102,0.0,-28.451139386390878
-[26May2025 01:59:54.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.63139956978921,0.0,-28.742902715441232
-[26May2025 01:59:54.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.485515233051046,0.0,-29.012634028646517
-[26May2025 01:59:54.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.31436096617108,0.0,-29.25875531678639
-[26May2025 01:59:54.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 17.120322190558454,0.0,-29.480195441146407
-[26May2025 01:59:54.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.905812054274065,0.0,-29.676334833416604
-[26May2025 01:59:54.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.673095977258527,0.0,-29.84763289716011
-[26May2025 01:59:54.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.424165567194905,0.0,-29.99540896533472
-[26May2025 01:59:54.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 16.160702115739696,0.0,-30.121655870013
-[26May2025 01:59:54.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.884097232845761,0.0,-30.228897253115974
-[26May2025 01:59:54.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.595513647545886,0.0,-30.320054068505215
-[26May2025 01:59:54.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 15.29596377423968,0.0,-30.398353928853794
-[26May2025 01:59:54.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.986400248343216,0.0,-30.4672403799309
-[26May2025 01:59:54.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.667794741064881,0.0,-30.52960249963371
-[26May2025 01:59:54.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.34110579529397,0.0,-30.58784431116419
-[26May2025 01:59:54.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 14.00725611403368,0.0,-30.643949754264213
-[26May2025 01:59:54.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.667117622248497,0.0,-30.699542738032505
-[26May2025 01:59:54.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 13.321502150147808,0.0,-30.755938320133282
-[26May2025 01:59:54.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.97115668774859,0.0,-30.814189293811978
-[26May2025 01:59:54.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.616618864254633,0.0,-30.874441348000346
-[26May2025 01:59:54.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 12.258368317732675,0.0,-30.93679125229619
-[26May2025 01:59:54.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.896832520303178,0.0,-31.00129563949986
-[26May2025 01:59:54.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.532392210804119,0.0,-31.067978880557803
-[26May2025 01:59:54.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 11.165386429473074,0.0,-31.136840145003134
-[26May2025 01:59:54.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.796115443561575,0.0,-31.207852262862616
-[26May2025 01:59:54.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.424846889610308,0.0,-31.280975639719145
-[26May2025 01:59:54.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 10.051817937561736,0.0,-31.356155812049565
-[26May2025 01:59:54.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.677239019147237,0.0,-31.43332871158009
-[26May2025 01:59:54.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 9.30129633779734,0.0,-31.512421663946498
-[26May2025 01:59:54.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.924154149910919,0.0,-31.59335428282975
-[26May2025 01:59:54.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.545958717895246,0.0,-31.676046707565547
-[26May2025 01:59:54.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 8.16683909256244,0.0,-31.760415848571483
-[26May2025 01:59:54.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.786908756057528,0.0,-31.84637573072814
-[26May2025 01:59:54.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.406268080246264,0.0,-31.93384151188002
-[26May2025 01:59:54.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! 7.025005589313878,0.0,-32.02272937791986
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 01:59:54.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved too quickly! -7.050304067284287,0.0,18.56103289366547
-[26May2025 02:01:29.453] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3072ms or 61 ticks
-[26May2025 02:04:18.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was pierced by Cryomancer's icicle
-[26May2025 02:04:24.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 02:04:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was crushed by Cryomancer's giant block of ice
-[26May2025 02:05:24.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota froze to death
-[26May2025 02:05:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 02:06:18.939] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3107ms or 62 ticks
-[26May2025 02:10:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
-[26May2025 02:11:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was crushed by Cryomancer's giant block of ice
-[26May2025 02:11:45.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
-[26May2025 02:11:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was blown up by Creeper
-[26May2025 02:11:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was crushed by Cryomancer's giant block of ice
-[26May2025 02:11:56.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
-[26May2025 02:12:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was shot by mererio48
-[26May2025 02:12:24.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
-[26May2025 02:12:56.444] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
-[26May2025 02:14:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Magery]
-[26May2025 02:16:22.131] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3139ms or 62 ticks
-[26May2025 02:16:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
-[26May2025 02:16:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [Rude Awakening]
-[26May2025 02:16:32.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! -7.02710645695106,-4.020679542666713,-6.001379930364692
-[26May2025 02:17:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 02:19:28.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Disconnected
-[26May2025 02:19:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
-[26May2025 02:28:07.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:45893] logged in with entity id 70441 at (2100.251909604686, 71.0625, -2963.498292687171)
-[26May2025 02:28:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
-[26May2025 02:28:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has completed the challenge [It's Purple!]
-[26May2025 02:29:50.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [It's Purple!]
-[26May2025 02:29:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Magery]
-[26May2025 02:31:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Local Brewery]
-[26May2025 02:34:03.348] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3036ms or 60 ticks
-[26May2025 02:35:08.380] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3062ms or 61 ticks
-[26May2025 02:35:12.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[26May2025 02:36:07.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota hit the ground too hard
-[26May2025 02:36:46.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Left hanging]
-[26May2025 02:36:50.639] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3096ms or 61 ticks
-[26May2025 02:38:03.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported mererio48 to Invel666]
-[26May2025 02:38:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 fell from a high place
-[26May2025 02:38:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has reached the goal [Quaint Scribe]
-[26May2025 02:38:10.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported mererio48 to Invel666]
-[26May2025 02:38:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
-[26May2025 02:38:30.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
-[26May2025 02:40:08.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
-[26May2025 02:40:08.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
-[26May2025 02:40:42.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Magery]
-[26May2025 02:40:44.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:40735] logged in with entity id 79735 at (2589.0035115335922, 37.0, -3246.238739675593)
-[26May2025 02:40:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
-[26May2025 02:40:44.146] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
-[26May2025 02:40:46.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72914, l='ServerLevel[world]', x=2583.34, y=37.00, z=-3254.23] died, message: 'Villager was mauled by Jota's polar bear'
-[26May2025 02:45:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Zombie
-[26May2025 02:45:20.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
-[26May2025 02:45:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Zombie
-[26May2025 02:45:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
-[26May2025 02:45:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was mauled by Necromancer's undead
-[26May2025 02:46:05.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Jota]
-[26May2025 02:46:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported ZhynoDamned to Jota]
-[26May2025 02:46:17.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/73337, l='ServerLevel[world]', x=2553.24, y=50.00, z=-3220.93] died, message: 'Golem Healer was slain by Zombie'
-[26May2025 02:46:17.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/73337, l='ServerLevel[world]', x=2553.24, y=50.00, z=-3220.93] died: Golem Healer was slain by Zombie
-[26May2025 02:46:30.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/81839, l='ServerLevel[world]', x=2627.50, y=18.00, z=-3251.50] died, message: 'Golem Healer hit the ground too hard'
-[26May2025 02:46:30.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/81839, l='ServerLevel[world]', x=2627.50, y=18.00, z=-3251.50] died: Golem Healer fell from a high place
-[26May2025 02:49:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was mauled by Jota's polar bear
-[26May2025 02:49:40.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3591ms or 71 ticks
-[26May2025 02:49:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Jota]
-[26May2025 02:52:26.501] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3109ms or 62 ticks
-[26May2025 02:55:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Summoned new Hoglin]
-[26May2025 02:55:26.679] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3107ms or 62 ticks
-[26May2025 02:56:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
-[26May2025 02:57:44.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/72870, l='ServerLevel[world]', x=2565.50, y=85.00, z=-3260.30] died, message: 'Armorer was slain by Zombie'
-[26May2025 02:58:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Ol' Betsy]
-[26May2025 03:03:08.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Disconnected
-[26May2025 03:03:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
-[26May2025 03:03:12.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
-[26May2025 03:03:12.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
-[26May2025 03:03:15.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 lost connection: Disconnected
-[26May2025 03:03:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 left the game
-[26May2025 03:03:16.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Disconnected
-[26May2025 03:03:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
-[26May2025 03:03:28.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[26May2025 03:03:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26May2025 03:03:28.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26May2025 03:03:28.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26May2025 03:03:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26May2025 03:03:28.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26May2025 03:03:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[26May2025 03:03:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26May2025 03:03:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[26May2025 03:03:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26May2025 03:03:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26May2025 03:03:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[26May2025 03:03:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26May2025 03:03:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[26May2025 03:03:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26May2025 03:03:29.680] [Server thread/INFO] [Framework/]: Unloading server configs...
-[26May2025 03:03:29.681] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[26May2025 03:03:29.684] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[26May2025 03:03:29.684] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[26May2025 03:03:29.686] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26May2025 21:36:26.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
+[26May2025 21:36:27.062] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement slashblade_addon:recipes/combat/tofu_diamond_blade: Unknown item id 'slashblade_addon:slashblade_tofu_metal'
+[26May2025 21:36:27.131] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
+[26May2025 21:36:27.164] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3599 advancements
+[26May2025 21:36:27.270] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[26May2025 21:36:27.278] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[26May2025 21:36:27.279] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[26May2025 21:36:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26May2025 21:36:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26May2025 21:36:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26May2025 21:36:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26May2025 21:36:32.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26May2025 21:36:32.403] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26May2025 21:36:32.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26May2025 21:36:32.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26May2025 21:36:32.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26May2025 21:36:32.493] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26May2025 21:36:32.514] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26May2025 21:36:32.515] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26May2025 21:36:32.516] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26May2025 21:36:32.638] [Server thread/INFO] [Framework/]: Loading server configs...
+[26May2025 21:36:32.651] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26May2025 21:36:33.088] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26May2025 21:36:33.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26May2025 21:36:42.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26May2025 21:36:46.064] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.086] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.118] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.143] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:46.288] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:47.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:47.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:47.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:48.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26May2025 21:36:48.775] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[26May2025 21:36:49.275] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7000 ms
+[26May2025 21:36:49.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.767s)! For help, type "help"
+[26May2025 21:36:49.340] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26May2025 21:41:53.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:60149] logged in with entity id 88 at (2603.846423633586, 8.0, -3205.157956084441)
+[26May2025 21:41:53.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[26May2025 21:41:59.053] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3060ms or 61 ticks
+[26May2025 21:48:36.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/140, l='ServerLevel[world]', x=2578.43, y=10.00, z=-3218.48] died, message: 'Golem Healer was slain by Zombie'
+[26May2025 21:48:36.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/140, l='ServerLevel[world]', x=2578.43, y=10.00, z=-3218.48] died: Golem Healer was slain by Zombie
+[26May2025 21:48:41.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/1009, l='ServerLevel[world]', x=2580.84, y=9.00, z=-3219.32] died: Golem Healer was slain by ZhynoDamned
+[26May2025 21:50:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Gave 10 [Block of Diamond] to ZhynoDamned]
+[26May2025 21:50:38.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
+[26May2025 21:50:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game

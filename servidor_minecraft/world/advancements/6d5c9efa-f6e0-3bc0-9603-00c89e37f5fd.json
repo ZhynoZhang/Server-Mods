@@ -198,6 +198,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-26 02:15:48 +0000",
       "sweet_berries": "2025-05-26 00:22:29 +0000",
+      "cooked_beef": "2025-05-26 21:50:08 +0000",
       "apple": "2025-05-26 00:04:45 +0000",
       "bread": "2025-05-25 20:35:35 +0000",
       "rotten_flesh": "2025-05-26 02:06:02 +0000",
@@ -3211,7 +3212,8 @@
       "minecraft:husk": "2025-05-25 21:44:25 +0000",
       "minecraft:cave_spider": "2025-05-26 01:03:01 +0000",
       "minecraft:zombie": "2025-05-25 21:23:24 +0000",
-      "minecraft:drowned": "2025-05-25 21:46:59 +0000"
+      "minecraft:drowned": "2025-05-25 21:46:59 +0000",
+      "minecraft:zombie_villager": "2025-05-26 21:48:41 +0000"
     },
     "done": false
   },
@@ -5551,12 +5553,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-26 02:49:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
@@ -5566,12 +5562,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-26 02:55:10 +0000"
     },
     "done": true
   },
@@ -5587,12 +5577,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-26 02:55:10 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2025-05-26 02:43:29 +0000"
@@ -5602,12 +5586,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-05-26 02:49:33 +0000"
     },
     "done": true
   },
@@ -5623,18 +5601,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-26 02:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-26 02:55:10 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
@@ -5644,12 +5610,6 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-26 02:49:33 +0000"
     },
     "done": true
   },
@@ -5674,6 +5634,60 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-26 02:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-26 02:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-26 02:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-26 02:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-26 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-26 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-26 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-26 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-26 21:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-26 21:49:54 +0000"
     },
     "done": true
   },
