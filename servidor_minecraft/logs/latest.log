@@ -734,3 +734,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26May2025 21:50:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Gave 10 [Block of Diamond] to ZhynoDamned]
 [26May2025 21:50:38.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
 [26May2025 21:50:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[26May2025 21:58:40.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26May2025 21:58:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26May2025 21:58:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26May2025 21:58:40.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26May2025 21:58:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26May2025 21:58:40.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[26May2025 21:58:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26May2025 21:58:40.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[26May2025 21:58:40.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26May2025 21:58:40.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26May2025 21:58:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[26May2025 21:58:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26May2025 21:58:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[26May2025 21:58:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26May2025 21:58:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26May2025 21:58:40.755] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26May2025 21:58:40.757] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26May2025 21:58:40.759] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26May2025 21:58:40.759] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26May2025 21:58:40.760] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
