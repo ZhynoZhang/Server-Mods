@@ -4673,3 +4673,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26May2025 22:49:45.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 22:50:11.512] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
 [26May2025 22:52:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[26May2025 22:54:45.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:54:45.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 22:55:20.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Stay dead]
+[26May2025 22:57:50.042] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26May2025 22:57:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[26May2025 22:58:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Chest Slayer]
+[26May2025 22:58:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Amateur Archaeologist]
+[26May2025 22:59:34.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26May2025 22:59:45.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:59:45.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 23:00:31.191] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26May2025 23:00:39.841] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26May2025 23:01:00.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[26May2025 23:01:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
+[26May2025 23:03:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Ice Bucket Challenge]

@@ -5692,5 +5692,17 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-26 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-26 22:58:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
