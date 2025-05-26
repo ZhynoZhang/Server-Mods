@@ -131,6 +131,7 @@
       "minecraft:stony_peaks": "2025-05-25 23:27:25 +0000",
       "minecraft:river": "2025-05-25 21:58:05 +0000",
       "minecraft:stony_shore": "2025-05-25 21:58:38 +0000",
+      "minecraft:snowy_plains": "2025-05-25 23:58:03 +0000",
       "minecraft:lush_caves": "2025-05-25 21:11:55 +0000",
       "minecraft:desert": "2025-05-25 20:34:42 +0000",
       "minecraft:warm_ocean": "2025-05-25 20:39:45 +0000",
@@ -5204,6 +5205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-26 00:00:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 23:25:51 +0000"
@@ -5288,6 +5295,12 @@
     },
     "done": true
   },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-05-25 23:56:29 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-25 23:38:16 +0000"
@@ -5348,6 +5361,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-05-25 23:58:17 +0000"
+    },
+    "done": true
+  },
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-05-25 23:37:21 +0000"
@@ -5396,6 +5415,18 @@
     },
     "done": true
   },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-05-25 23:56:28 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-25 23:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-25 23:28:46 +0000"
@@ -5420,9 +5451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-25 23:59:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-05-25 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 23:56:29 +0000"
     },
     "done": true
   },
@@ -5432,9 +5475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 23:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-25 23:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 23:56:29 +0000"
     },
     "done": true
   },
