@@ -81,6 +81,7 @@
       "lush_savanna": "2025-05-25 20:33:39 +0000",
       "jade_cliffs": "2025-05-26 00:21:16 +0000",
       "old_growth_woodland": "2025-05-26 01:42:47 +0000",
+      "crystalline_chasm": "2025-05-26 23:47:00 +0000",
       "lavender_forest": "2025-05-26 00:25:56 +0000",
       "mediterranean_forest": "2025-05-26 00:04:24 +0000",
       "coniferous_forest": "2025-05-26 02:34:10 +0000",
@@ -89,7 +90,8 @@
       "lavender_field": "2025-05-26 00:25:19 +0000",
       "fir_clearing": "2025-05-26 02:50:01 +0000",
       "tundra": "2025-05-26 02:17:30 +0000",
-      "glowing_grotto": "2025-05-25 21:09:11 +0000"
+      "glowing_grotto": "2025-05-25 21:09:11 +0000",
+      "undergrowth": "2025-05-26 23:24:30 +0000"
     },
     "done": false
   },
@@ -1767,6 +1769,7 @@
       "bread": "2025-05-25 20:56:22 +0000",
       "golden_apple": "2025-05-25 22:01:42 +0000",
       "beetroot": "2025-05-25 22:34:36 +0000",
+      "golden_carrot": "2025-05-26 23:23:37 +0000",
       "carrot": "2025-05-25 20:38:25 +0000"
     },
     "done": false
@@ -3544,12 +3547,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-25 23:30:02 +0000",
+      "minecraft:blaze": "2025-05-26 23:42:10 +0000",
       "minecraft:skeleton": "2025-05-25 21:27:41 +0000",
+      "minecraft:ghast": "2025-05-26 23:33:24 +0000",
       "minecraft:hoglin": "2025-05-26 01:25:28 +0000",
       "minecraft:vindicator": "2025-05-25 23:30:55 +0000",
       "minecraft:spider": "2025-05-25 23:22:10 +0000",
       "minecraft:piglin_brute": "2025-05-26 23:16:41 +0000",
       "minecraft:witch": "2025-05-26 22:57:25 +0000",
+      "minecraft:wither_skeleton": "2025-05-26 23:40:00 +0000",
       "minecraft:cave_spider": "2025-05-26 02:40:11 +0000",
       "minecraft:piglin": "2025-05-26 23:14:09 +0000",
       "minecraft:stray": "2025-05-26 02:13:35 +0000",
@@ -5877,7 +5883,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-26 01:23:48 +0000"
+      "minecraft:crimson_forest": "2025-05-26 01:23:48 +0000",
+      "minecraft:nether_wastes": "2025-05-26 23:41:37 +0000"
     },
     "done": false
   },
@@ -6457,6 +6464,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2025-05-26 23:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-26 23:15:39 +0000"
@@ -6487,15 +6500,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-26 23:16:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-05-26 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
     },
     "done": true
   },
@@ -6550,6 +6587,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-26 23:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-26 23:39:54 +0000"
     },
     "done": true
   },
@@ -6625,6 +6668,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-05-26 23:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-05-26 23:18:57 +0000"
@@ -6646,6 +6695,18 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-26 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-26 23:21:24 +0000"
     },
     "done": true
   },

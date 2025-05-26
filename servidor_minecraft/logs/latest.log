@@ -783,3 +783,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26May2025 23:22:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mererio48> discord juan
 [26May2025 23:23:16.683] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3133ms or 62 ticks
 [26May2025 23:23:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Haunted Knight
+[26May2025 23:25:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[26May2025 23:26:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Ancient Knight
+[26May2025 23:26:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[26May2025 23:27:17.028] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3041ms or 60 ticks
+[26May2025 23:27:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Haunted Guard
+[26May2025 23:28:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Who is Cutting Onions?]
+[26May2025 23:29:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Who is Cutting Onions?]
+[26May2025 23:29:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [We Need to Go Deeper]
+[26May2025 23:29:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[26May2025 23:30:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Ancient Knight
+[26May2025 23:30:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned walked into fire whilst fighting Ancient Knight
+[26May2025 23:30:19.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[26May2025 23:30:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Jota]
+[26May2025 23:31:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was fireballed by Ghast
+[26May2025 23:31:50.901] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3159ms or 63 ticks
+[26May2025 23:31:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[26May2025 23:33:19.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Oh Shiny]
+[26May2025 23:33:58.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Hoglin
+[26May2025 23:34:01.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[26May2025 23:37:29.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hoglin
+[26May2025 23:37:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Take Aim]
+[26May2025 23:37:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Hoglin
+[26May2025 23:37:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hoglin
+[26May2025 23:37:51.971] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3211ms or 64 ticks
+[26May2025 23:37:53.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Hoglin
+[26May2025 23:38:09.622] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3021ms or 60 ticks
+[26May2025 23:38:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[26May2025 23:39:35.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was burnt to a crisp whilst fighting Hoglin
+[26May2025 23:39:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Terrible Fortress]
+[26May2025 23:40:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hoglin
+[26May2025 23:46:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Ancient Knight
+[26May2025 23:46:14.573] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3444ms or 68 ticks
+[26May2025 23:46:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Ancient Knight
+[26May2025 23:46:23.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[26May2025 23:46:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[26May2025 23:47:42.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was burnt to a crisp whilst fighting Ghast
+[26May2025 23:47:56.375] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3076ms or 61 ticks
+[26May2025 23:48:35.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[26May2025 23:48:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[26May2025 23:48:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [Return to Sender]
+[26May2025 23:50:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [A Terrible Fortress]
+[26May2025 23:50:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [A Terrible Fortress]
+[26May2025 23:52:26.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Voltanic Place]
+[26May2025 23:52:44.168] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3633ms or 72 ticks
+[26May2025 23:52:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Lava Eater
+[26May2025 23:53:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[26May2025 23:53:13.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by entity.legendary_monsters.fire_pillar
+[26May2025 23:53:21.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3069ms or 61 ticks
+[26May2025 23:53:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[26May2025 23:53:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was mauled by mererio48's polar bear
+[26May2025 23:53:48.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
