@@ -745,3 +745,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26May2025 23:01:00.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
 [26May2025 23:01:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
 [26May2025 23:03:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Ice Bucket Challenge]
+[26May2025 23:03:38.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Ice Bucket Challenge]
+[26May2025 23:06:58.258] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5187ms or 103 ticks
+[26May2025 23:06:58.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[26May2025 23:07:02.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [We Need to Go Deeper]
+[26May2025 23:07:15.146] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3093ms or 61 ticks
+[26May2025 23:08:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Those Were the Days]
+[26May2025 23:08:55.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Those Were the Days]
+[26May2025 23:08:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Those Were the Days]
+[26May2025 23:09:21.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [War Pigs]
+[26May2025 23:09:38.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Hidden in the Depths]
+[26May2025 23:09:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [It Belongs in a Museum]
+[26May2025 23:09:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Piglin Brute
+[26May2025 23:10:16.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[26May2025 23:11:31.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:43509] logged in with entity id 8475 at (2600.389989671104, 8.875, -3202.3049337941434)
+[26May2025 23:11:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
+[26May2025 23:11:32.530] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
+[26May2025 23:11:39.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/8490, l='ServerLevel[world]', x=2583.41, y=8.00, z=-3261.61] died, message: 'Golem Healer was slain by Zombie'
+[26May2025 23:11:39.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/8490, l='ServerLevel[world]', x=2583.41, y=8.00, z=-3261.61] died: Golem Healer was slain by Zombie
+[26May2025 23:11:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> que fue
+[26May2025 23:11:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> que fue
+[26May2025 23:11:56.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mererio48> eooooo
+[26May2025 23:12:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [War Pigs]
+[26May2025 23:12:37.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Piglin Brute
+[26May2025 23:12:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Who is Cutting Onions?]
+[26May2025 23:13:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was blown up by Creeper
+[26May2025 23:13:39.045] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3456ms or 69 ticks
+[26May2025 23:15:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Hot Stuff]
+[26May2025 23:16:04.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [War Pigs]
+[26May2025 23:16:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[26May2025 23:17:38.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
+[26May2025 23:17:39.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[26May2025 23:17:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Piglin Brute
+[26May2025 23:18:01.956] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3111ms or 62 ticks
+[26May2025 23:18:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[26May2025 23:22:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Haunted Guard
+[26May2025 23:22:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mererio48> discord juan
+[26May2025 23:23:16.683] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3133ms or 62 ticks
+[26May2025 23:23:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Haunted Knight
