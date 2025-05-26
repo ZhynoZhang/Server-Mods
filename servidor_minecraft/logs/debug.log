@@ -11947,3 +11947,23 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [26May2025 00:05:48.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:58303] logged in with entity id 136433 at (3464.9123374090436, 157.0, 168.81196476709434)
 [26May2025 00:05:48.472] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@72c92dd5 into net.minecraft.network.Connection@480a5779
 [26May2025 00:05:48.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[26May2025 00:05:59.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hovering Hurricane
+[26May2025 00:06:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hovering Hurricane
+[26May2025 00:06:17.917] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[26May2025 00:06:20.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26May2025 00:06:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Hovering Hurricane
+[26May2025 00:06:29.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122, l='ServerLevel[world]', x=1015.70, y=62.04, z=130.30] died, message: 'Villager was slain by Zombie'
+[26May2025 00:06:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Hovering Hurricane
+[26May2025 00:06:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
+[26May2025 00:06:39.157] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3102ms or 62 ticks
+[26May2025 00:06:39.232] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[26May2025 00:06:39.241] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 6d5c9efa-f6e0-3bc0-9603-00c89e37f5fd
+[26May2025 00:06:39.245] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 2e2b96aa-85cb-38b8-9876-d88ee02eeee5
+[26May2025 00:06:39.245] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: a006b28b-4011-3634-8072-a1e9dd7e712d
+[26May2025 00:06:39.247] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: fd37754e-6564-30f7-9ff5-6379099d4f91
+[26May2025 00:06:39.248] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[26May2025 00:06:39.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26May2025 00:06:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26May2025 00:06:39.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Server closed
+[26May2025 00:06:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[26May2025 00:06:39.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

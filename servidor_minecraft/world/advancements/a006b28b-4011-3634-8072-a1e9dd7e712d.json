@@ -78,6 +78,7 @@
       "lush_savanna": "2025-05-25 20:34:01 +0000",
       "mystic_grove": "2025-05-25 22:48:00 +0000",
       "maple_woods": "2025-05-25 23:54:10 +0000",
+      "mediterranean_forest": "2025-05-26 00:04:29 +0000",
       "coniferous_forest": "2025-05-25 23:55:33 +0000",
       "dryland": "2025-05-25 21:54:12 +0000",
       "wasteland": "2025-05-25 21:45:04 +0000",
@@ -88,6 +89,7 @@
       "pumpkin_patch": "2025-05-25 23:53:49 +0000",
       "grassland": "2025-05-25 22:46:41 +0000",
       "snowy_coniferous_forest": "2025-05-25 23:56:27 +0000",
+      "snowy_fir_clearing": "2025-05-26 00:02:57 +0000",
       "glowing_grotto": "2025-05-25 21:03:56 +0000"
     },
     "done": false
@@ -136,6 +138,7 @@
       "minecraft:wooded_badlands": "2025-05-25 20:34:38 +0000",
       "minecraft:beach": "2025-05-25 22:38:28 +0000",
       "minecraft:dark_forest": "2025-05-25 22:38:31 +0000",
+      "minecraft:stony_peaks": "2025-05-26 00:02:59 +0000",
       "minecraft:lukewarm_ocean": "2025-05-25 22:37:10 +0000",
       "minecraft:river": "2025-05-25 20:47:32 +0000",
       "minecraft:stony_shore": "2025-05-25 20:52:42 +0000",
@@ -4710,15 +4713,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 23:35:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-05-26 00:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-05-25 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
     },
     "done": true
   },
@@ -4752,6 +4797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-05-25 23:50:26 +0000"
@@ -4776,9 +4827,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "chimes:recipes/decorations/amethyst_chimes": {
     "criteria": {
       "has_planks": "2025-05-25 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
     },
     "done": true
   },
@@ -4812,15 +4899,33 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-05-25 23:41:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2025-05-25 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
     },
     "done": true
   },
@@ -4884,6 +4989,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-05-25 23:35:13 +0000"
@@ -4893,6 +5004,18 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-25 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
     },
     "done": true
   },
@@ -4911,6 +5034,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-25 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-05-26 00:04:50 +0000"
     },
     "done": true
   },
@@ -4980,6 +5109,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:04:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-05-25 23:41:46 +0000"
@@ -5004,6 +5145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-25 23:35:13 +0000"
@@ -5013,6 +5160,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2025-05-25 23:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-26 00:04:41 +0000"
     },
     "done": true
   },
