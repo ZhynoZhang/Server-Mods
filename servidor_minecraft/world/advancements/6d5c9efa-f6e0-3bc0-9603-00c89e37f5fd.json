@@ -71,6 +71,7 @@
       "minecraft:deep_ocean": "2025-05-27 04:36:53 +0000",
       "minecraft:eroded_badlands": "2025-05-26 00:58:47 +0000",
       "minecraft:frozen_river": "2025-05-26 02:06:28 +0000",
+      "minecraft:cherry_grove": "2025-05-27 21:12:18 +0000",
       "minecraft:birch_forest": "2025-05-25 23:49:20 +0000",
       "minecraft:wooded_badlands": "2025-05-25 18:55:31 +0000",
       "minecraft:bamboo_jungle": "2025-05-25 23:28:10 +0000",
@@ -7207,6 +7208,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-27 21:01:46 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-05-27 21:17:24 +0000"
     },
     "done": true
   },

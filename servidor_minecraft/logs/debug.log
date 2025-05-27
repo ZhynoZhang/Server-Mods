@@ -4240,3 +4240,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27May2025 21:12:09.006] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to mdb25a97$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
 [27May2025 21:12:09.006] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to mdb25a97$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
 [27May2025 21:12:09.628] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27May2025 21:12:12.688] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27May2025 21:12:12.689] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27May2025 21:12:12.689] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27May2025 21:12:12.812] [Worker-Main-34/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27May2025 21:12:12.815] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27May2025 21:12:12.815] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27May2025 21:12:12.816] [Worker-Main-34/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[27May2025 21:12:12.826] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27May2025 21:12:12.826] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27May2025 21:12:17.755] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 21:12:17.760] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 21:12:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to -519.500000, 64.000000, 3947.500000]
+[27May2025 21:12:17.877] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 11814ms or 236 ticks
+[27May2025 21:12:17.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8883ms or 177 ticks behind
+[27May2025 21:12:27.163] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 21:12:27.164] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 21:13:50.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 21:13:50.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 21:14:55.109] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[27May2025 21:17:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Dripstone Everywhere]
+[27May2025 21:17:49.447] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27May2025 21:17:49.447] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27May2025 21:17:49.451] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27May2025 21:18:03.037] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3310ms or 66 ticks
+[27May2025 21:18:47.251] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
+[27May2025 21:18:50.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 21:18:50.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 21:19:31.457] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3047ms or 60 ticks
+[27May2025 21:20:03.547] [Server thread/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[27May2025 21:20:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Gave 1 [Acacia Boat] to ZhynoDamned]
+[27May2025 21:20:45.806] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3084ms or 61 ticks
+[27May2025 21:21:29.313] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=361, y=-1, z=2787}
+[27May2025 21:21:29.324] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=353, y=-1, z=2781}
+[27May2025 21:21:31.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZhynoDamned) moved wrongly! 0.38769740566112887
+[27May2025 21:21:31.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZhynoDamned) moved wrongly! 1.0186317169320773
+[27May2025 21:21:31.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZhynoDamned) moved wrongly! 1.3133462907164812
+[27May2025 21:21:31.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZhynoDamned) moved wrongly! 0.41304606216021966
+[27May2025 21:21:31.947] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=351, y=-1, z=2773}
