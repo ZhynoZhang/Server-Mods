@@ -128,3 +128,52 @@
 [27May2025 00:50:39.987] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3154ms or 63 ticks
 [27May2025 00:51:34.279] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3015ms or 60 ticks
 [27May2025 00:52:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[27May2025 01:02:37.640] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3146ms or 62 ticks
+[27May2025 01:03:25.059] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[27May2025 01:04:08.903] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
+[27May2025 01:04:42.046] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3085ms or 61 ticks
+[27May2025 01:05:10.209] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3251ms or 65 ticks
+[27May2025 01:05:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 01:06:08.647] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3011ms or 60 ticks
+[27May2025 01:06:58.176] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3203ms or 64 ticks
+[27May2025 01:07:22.601] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3131ms or 62 ticks
+[27May2025 01:08:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was blown up by Skeleton Creeper
+[27May2025 01:08:03.653] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3176ms or 63 ticks
+[27May2025 01:08:06.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[27May2025 01:08:32.442] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3166ms or 63 ticks
+[27May2025 01:08:59.803] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3174ms or 63 ticks
+[27May2025 01:09:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set the time to 1000]
+[27May2025 01:11:58.165] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3186ms or 63 ticks
+[27May2025 01:16:57.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 lost connection: Disconnected
+[27May2025 01:16:57.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 left the game
+[27May2025 01:18:43.760] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3125ms or 62 ticks
+[27May2025 01:19:20.509] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3176ms or 63 ticks
+[27May2025 01:19:54.903] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[27May2025 01:20:06.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set the time to 1000]
+[27May2025 01:27:03.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Timed out
+[27May2025 01:27:03.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
+[27May2025 01:27:03.958] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 01:27:08.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Timed out
+[27May2025 01:27:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[27May2025 01:27:24.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:54563] logged in with entity id 81056 at (2764.2057292772633, 67.5625, 3848.5394958618267)
+[27May2025 01:27:24.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
+[27May2025 01:27:25.465] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3414ms or 68 ticks
+[27May2025 01:27:33.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:40873] logged in with entity id 81555 at (3367.3207747897072, 112.0, 43.57505971302346)
+[27May2025 01:27:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
+[27May2025 01:29:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Set the time to 1000]
+[27May2025 01:30:07.555] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3026ms or 60 ticks
+[27May2025 01:30:57.331] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3059ms or 61 ticks
+[27May2025 01:31:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Magery]
+[27May2025 01:31:54.754] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3179ms or 63 ticks
+[27May2025 01:31:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Blade Arts -Combo A-              ]
+[27May2025 01:31:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Ex Enchantment Effect]
+[27May2025 01:31:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Slow Fall]
+[27May2025 01:32:04.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Iron Golem
+[27May2025 01:32:24.110] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3139ms or 62 ticks
+[27May2025 01:33:10.951] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3067ms or 61 ticks
+[27May2025 01:33:33.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mererio48[/127.158.200.124:60391] logged in with entity id 85536 at (3369.023562862194, 112.0, 40.791317774723495)
+[27May2025 01:33:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 joined the game
+[27May2025 01:33:38.166] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[27May2025 01:34:11.146] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3058ms or 61 ticks
+[27May2025 01:34:29.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Set the weather to clear]
+[27May2025 01:36:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
