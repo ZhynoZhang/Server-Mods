@@ -780,3 +780,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27May2025 21:43:03.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:32981] logged in with entity id 15067 at (2966.200585883479, 7.766367993957519, 350.54601312926604)
 [27May2025 21:43:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
 [27May2025 21:43:03.537] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3081ms or 61 ticks
+[27May2025 21:43:50.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> Que fue
+[27May2025 21:43:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> hola
+[27May2025 21:44:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> dis?
+[27May2025 21:47:17.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> ok
+[27May2025 21:48:01.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cocodrilo[/127.6.143.159:54239] logged in with entity id 17258 at (3495.872724755061, 156.5, 143.04207597890698)
+[27May2025 21:48:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo joined the game
+[27May2025 21:48:02.763] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3711ms or 74 ticks
+[27May2025 21:48:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported cocodrilo to Invel666]
+[27May2025 21:49:10.891] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3007ms or 60 ticks
+[27May2025 21:50:11.676] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3022ms or 60 ticks
+[27May2025 21:51:27.616] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3164ms or 63 ticks
+[27May2025 21:52:08.321] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3038ms or 60 ticks
+[27May2025 21:52:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> encontre una mazmorra en la "supuesta ancient city"
+[27May2025 21:53:06.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2998, y=-4, z=339} BlockPos{x=2999, y=-6, z=341}
+[27May2025 21:53:10.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3002, y=-8, z=344} BlockPos{x=3002, y=-9, z=344}
+[27May2025 21:53:10.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3004, y=-9, z=344} BlockPos{x=3003, y=-10, z=344}
+[27May2025 21:53:11.619] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3032ms or 60 ticks
+[27May2025 21:53:59.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3006, y=-4, z=338} BlockPos{x=3005, y=-4, z=338}
+[27May2025 21:53:59.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3006, y=-4, z=338} BlockPos{x=3005, y=-4, z=338}
+[27May2025 21:54:05.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3001, y=-4, z=338} BlockPos{x=3001, y=-4, z=339}
+[27May2025 21:54:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Stone Age]
+[27May2025 21:54:07.289] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3299ms or 65 ticks
+[27May2025 21:54:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Into Darkness]
+[27May2025 21:54:39.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Isn't It Iron Pick]
+[27May2025 21:55:01.826] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
+[27May2025 21:55:59.822] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3005ms or 60 ticks
+[27May2025 21:56:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [A Disgusting Worm]
+[27May2025 21:56:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [An Imposter]
+[27May2025 21:57:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Taking from the Dead]
+[27May2025 21:57:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has completed the challenge [It Spreads]
+[27May2025 21:57:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Iron, but dark]
+[27May2025 21:57:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Sneak 100]
+[27May2025 21:59:42.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mererio48[/127.158.200.124:45993] logged in with entity id 22785 at (3369.441343747336, 112.0, 53.7574734682986)
+[27May2025 21:59:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 joined the game
+[27May2025 22:00:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
+[27May2025 22:00:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Not Today, Thank You]
+[27May2025 22:01:44.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Chest Slayer]
+[27May2025 22:01:45.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Amateur Archaeologist]
