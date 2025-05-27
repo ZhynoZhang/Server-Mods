@@ -6329,6 +6329,13 @@
     },
     "done": true
   },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2025-05-27 03:53:21 +0000",
+      "vinery:white_grape": "2025-05-27 03:53:21 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2025-05-27 02:49:45 +0000"
@@ -6774,6 +6781,13 @@
     },
     "done": true
   },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2025-05-27 03:53:21 +0000",
+      "vinery:white_grape": "2025-05-27 03:53:21 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-05-27 02:39:22 +0000"
@@ -6783,6 +6797,12 @@
   "chimes:recipes/decorations/bamboo_chimes": {
     "criteria": {
       "has_planks": "2025-05-27 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 03:53:10 +0000"
     },
     "done": true
   },
@@ -6831,6 +6851,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-05-27 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-27 03:50:17 +0000"
     },
     "done": true
   },
@@ -6966,6 +6992,12 @@
     },
     "done": false
   },
+  "vinery:main/the_magic_of_the_barrel": {
+    "criteria": {
+      "fermentation_barrel": "2025-05-27 03:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-27 03:23:48 +0000"
@@ -7089,6 +7121,12 @@
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-27 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-27 03:53:10 +0000"
     },
     "done": true
   },

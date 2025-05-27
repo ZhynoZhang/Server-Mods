@@ -356,3 +356,43 @@
 [27May2025 03:48:05.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
 [27May2025 03:48:32.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147316, l='ServerLevel[world]', x=3355.20, y=116.19, z=48.20] died, message: 'Villager was struck by Invel666's shooting stars'
 [27May2025 03:49:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [What a Deal!]
+[27May2025 03:50:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [What a Deal!]
+[27May2025 03:51:13.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
+[27May2025 03:51:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned fell from a high place
+[27May2025 03:52:00.145] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3215ms or 64 ticks
+[27May2025 03:53:04.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Disconnected
+[27May2025 03:53:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[27May2025 03:53:20.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:38917] logged in with entity id 150405 at (3361.8153367037085, 111.0, 38.05239538162961)
+[27May2025 03:53:20.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
+[27May2025 03:53:28.459] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:32.440] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:35.688] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:38.289] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:46.787] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:48.387] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:51.602] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:53.485] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:57.692] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:53:58.287] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:02.841] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:03.340] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:07.694] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:08.394] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:12.756] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:31.495] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:54:53.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from ZhynoDamned: Location (3349.875, 112.06107199192047, 48.54596173763275) too far away from hit block BlockPos{x=3349, y=111, z=47}.
+[27May2025 03:55:22.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3de39d75[id=<null>,name=Richstone,properties={},legacy=false] (/127.102.174.140:49123) lost connection: Disconnected
+[27May2025 03:55:33.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Richstone[/127.102.174.140:35291] logged in with entity id 150864 at (1082.4027613058258, 85.0, 69.71241999023106)
+[27May2025 03:55:33.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone joined the game
+[27May2025 03:55:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Richstone to Invel666]
+[27May2025 03:55:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [The Magic of the Barrel]
+[27May2025 03:56:02.849] [Server thread/WARN] [waterframes/]: Received maxTick value major than current one, media differs?.
+[27May2025 03:56:13.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
+[27May2025 03:57:33.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147320, l='ServerLevel[world]', x=3356.47, y=116.06, z=50.30] died, message: 'Villager was decimated in ZhynoDamned's earthquake'
+[27May2025 03:57:38.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved wrongly!
+[27May2025 03:57:42.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Stone Age]
+[27May2025 03:57:43.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
+[27May2025 03:58:07.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Getting an Upgrade]
+[27May2025 03:58:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [The First Press]
+[27May2025 03:59:42.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
+[27May2025 03:59:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
