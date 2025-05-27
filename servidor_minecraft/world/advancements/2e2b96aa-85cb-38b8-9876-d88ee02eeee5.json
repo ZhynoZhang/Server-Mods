@@ -6139,9 +6139,22 @@
     },
     "done": true
   },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-05-27 02:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-27 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-05-27 02:32:35 +0000",
+      "has_the_recipe": "2025-05-27 02:32:35 +0000"
     },
     "done": true
   },
@@ -6157,6 +6170,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-27 02:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-27 02:13:22 +0000"
@@ -6169,6 +6188,12 @@
     },
     "done": true
   },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-27 01:44:37 +0000"
@@ -6178,6 +6203,24 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-27 01:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-27 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-27 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-27 02:32:23 +0000"
     },
     "done": true
   },

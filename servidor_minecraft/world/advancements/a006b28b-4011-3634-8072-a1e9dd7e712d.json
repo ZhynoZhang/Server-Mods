@@ -6968,6 +6968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 02:35:28 +0000"
+    },
+    "done": true
+  },
   "slashblade:enchantment/feather_falling": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:59 +0000"
@@ -6992,6 +6998,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-05-27 02:29:52 +0000"
+    },
+    "done": true
+  },
   "slashblade:enchantment/root": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:59 +0000"
@@ -7007,6 +7019,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-05-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 02:35:28 +0000"
     },
     "done": true
   },
