@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-05-27 03:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -2149,6 +2155,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-27 03:10:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-05-27 02:45:50 +0000"
@@ -2858,6 +2870,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-27 03:02:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
@@ -3130,6 +3148,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_peaks": "2025-05-27 03:02:38 +0000",
       "minecraft:savanna": "2025-05-27 01:58:26 +0000"
     },
     "done": false

@@ -272,3 +272,53 @@
 [27May2025 02:53:07.940] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player cocodrilo just tried to change non-editable sign
 [27May2025 02:54:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Blade Arts -Combo B-              ]
 [27May2025 02:54:49.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/64580, l='ServerLevel[world]', x=3251.93, y=86.00, z=-2.88] died, message: 'Farmer was slain by Zombie'
+[27May2025 03:02:17.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
+[27May2025 03:02:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported cocodrilo to Jota]
+[27May2025 03:02:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Made From Clouds...]
+[27May2025 03:02:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Jota]
+[27May2025 03:04:10.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:04:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Abilities -Enemy Step-           ]
+[27May2025 03:04:18.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[27May2025 03:04:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Cumulonimbus
+[27May2025 03:04:37.654] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3180ms or 63 ticks
+[27May2025 03:04:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 03:04:48.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:05:50.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:05:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[27May2025 03:06:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Cumulonimbus
+[27May2025 03:06:23.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to cocodrilo]
+[27May2025 03:06:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:07:01.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 hit the ground too hard whilst trying to escape Cumulonimbus
+[27May2025 03:07:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:07:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Cumulonimbus
+[27May2025 03:07:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 03:07:45.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was Exterminated by Cumulonimbus using pure Lightning Energy
+[27May2025 03:08:00.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[27May2025 03:08:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Cumulonimbus
+[27May2025 03:08:13.028] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3260ms or 65 ticks
+[27May2025 03:08:16.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 03:09:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Cumulonimbus
+[27May2025 03:10:07.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Abilities -Enemy Step-           ]
+[27May2025 03:10:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was Exterminated by Cumulonimbus using pure Lightning Energy
+[27May2025 03:10:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to cocodrilo]
+[27May2025 03:10:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[27May2025 03:11:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was doomed to fall by Cumulonimbus
+[27May2025 03:11:07.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to cocodrilo]
+[27May2025 03:11:58.135] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
+[27May2025 03:12:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[27May2025 03:12:16.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has completed the challenge [Against The Gods]
+[27May2025 03:12:16.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:56053] logged in with entity id 135633 at (3368.68905231424, 112.0, 28.23044547340639)
+[27May2025 03:12:16.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[27May2025 03:12:17.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Jota]
+[27May2025 03:12:25.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cocodrilo lost connection: Timed out
+[27May2025 03:12:25.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo left the game
+[27May2025 03:12:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[27May2025 03:13:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned's atoms were crushed in Invel666's black hole
+[27May2025 03:13:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[27May2025 03:13:25.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was killed
+[27May2025 03:13:25.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Killed Invel666]
+[27May2025 03:13:39.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was killed
+[27May2025 03:13:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Killed ZhynoDamned]
+[27May2025 03:13:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[27May2025 03:16:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Invel666]
+[27May2025 03:16:14.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]

@@ -1779,7 +1779,8 @@
       "cooked_beef": "2025-05-26 01:07:35 +0000",
       "baked_potato": "2025-05-25 22:15:37 +0000",
       "apple": "2025-05-25 22:51:44 +0000",
-      "bread": "2025-05-25 20:40:22 +0000"
+      "bread": "2025-05-25 20:40:22 +0000",
+      "golden_apple": "2025-05-27 03:09:30 +0000"
     },
     "done": false
   },
@@ -7004,6 +7005,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-27 03:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-27 02:42:12 +0000"
@@ -7025,6 +7032,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-05-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-05-27 03:12:16 +0000"
     },
     "done": true
   },

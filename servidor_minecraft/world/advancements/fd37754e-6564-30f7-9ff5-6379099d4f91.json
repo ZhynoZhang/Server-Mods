@@ -6962,6 +6962,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-27 03:03:02 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/nihilul": {
     "criteria": {
       "has_slashblade": "2025-05-27 01:41:07 +0000"
@@ -6983,6 +6989,12 @@
   "slashblade_addon:recipes/combat/nihilbx": {
     "criteria": {
       "has_slashblade": "2025-05-27 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-27 03:03:02 +0000"
     },
     "done": true
   },
@@ -7049,6 +7061,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-05-27 01:31:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-27 03:03:02 +0000"
     },
     "done": true
   },
