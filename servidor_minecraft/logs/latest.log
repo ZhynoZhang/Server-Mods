@@ -396,3 +396,104 @@
 [27May2025 03:58:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [The First Press]
 [27May2025 03:59:42.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
 [27May2025 03:59:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:00:16.925] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3060ms or 61 ticks
+[27May2025 04:00:40.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved wrongly!
+[27May2025 04:00:49.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved wrongly!
+[27May2025 04:01:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:01:52.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:05:18.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Made Richstone a server operator]
+[27May2025 04:06:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[27May2025 04:07:31.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Acquire Hardware]
+[27May2025 04:07:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Isn't It Iron Pick]
+[27May2025 04:10:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Richstone]
+[27May2025 04:11:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[27May2025 04:11:52.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Source of Evil]
+[27May2025 04:12:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Richstone to Jota]
+[27May2025 04:12:36.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Richstone to ZhynoDamned]
+[27May2025 04:13:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Not Today, Thank You]
+[27May2025 04:14:37.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! 22.978429598655566,121.0,16.476755293008416
+[27May2025 04:14:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[27May2025 04:14:48.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:15:07.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Richstone to mererio48]
+[27May2025 04:15:20.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Richstone lost connection: Timed out
+[27May2025 04:15:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone left the game
+[27May2025 04:15:22.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Timed out
+[27May2025 04:15:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[27May2025 04:15:29.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Timed out
+[27May2025 04:15:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
+[27May2025 04:15:33.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:34839] logged in with entity id 163076 at (3344.20923570291, -23.0, -1716.634466422111)
+[27May2025 04:15:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
+[27May2025 04:15:34.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jota[/127.134.180.185:37381] logged in with entity id 163173 at (3385.7314426504126, -14.0, 50.42464493707782)
+[27May2025 04:15:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota joined the game
+[27May2025 04:15:39.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Richstone[/127.102.174.140:34107] logged in with entity id 163318 at (3365.2992912161612, 112.0, 41.68315334137305)
+[27May2025 04:15:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone joined the game
+[27May2025 04:15:43.817] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3346ms or 66 ticks
+[27May2025 04:16:39.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned moved too quickly! -11.93628762745766,124.0,-23.459701571666216
+[27May2025 04:20:03.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Jota]
+[27May2025 04:20:26.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:20:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:21:10.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:22:00.191] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3129ms or 62 ticks
+[27May2025 04:22:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota has made the advancement [Sneak 100]
+[27May2025 04:22:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Jota to ZhynoDamned]
+[27May2025 04:22:31.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Jota to mererio48]
+[27May2025 04:24:34.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Jota: Location (3349.75, 112.22564935684204, 46.47166669368744) too far away from hit block BlockPos{x=3349, y=111, z=47}.
+[27May2025 04:24:41.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Suit Up]
+[27May2025 04:24:58.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:25:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was blown up by Skeleton Creeper
+[27May2025 04:25:22.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[27May2025 04:27:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[27May2025 04:27:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:28:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:28:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:28:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:28:31.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Masquerade]
+[27May2025 04:29:05.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Richstone moved too quickly! 9.960561899678396,0.380023674395531,2.0050404823770123
+[27May2025 04:29:06.700] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3566ms or 71 ticks
+[27May2025 04:29:06.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[27May2025 04:29:30.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:29:35.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/169379, l='ServerLevel[world]', x=3011.90, y=70.00, z=852.31] died, message: 'Villager was slain by Zombie'
+[27May2025 04:29:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Richstone]
+[27May2025 04:29:42.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:30:03.858] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3135ms or 62 ticks
+[27May2025 04:30:42.662] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
+[27May2025 04:32:09.839] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3049ms or 60 ticks
+[27May2025 04:32:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:32:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Richstone to mererio48]
+[27May2025 04:33:00.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Richstone to Jota]
+[27May2025 04:33:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[27May2025 04:34:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:34:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:35:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Abilities -Kick Jump-            ]
+[27May2025 04:35:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Ex Enchantment Effect]
+[27May2025 04:35:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Slow Fall]
+[27May2025 04:35:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[27May2025 04:35:38.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[27May2025 04:35:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[27May2025 04:36:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.3822807070403087
+[27May2025 04:36:06.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.6063446133323396
+[27May2025 04:36:06.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.8439709414237768
+[27May2025 04:36:06.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 1.0933384506254242
+[27May2025 04:36:06.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.32052636717071437
+[27May2025 04:36:06.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.5544694202048959
+[27May2025 04:36:07.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Take Aim]
+[27May2025 04:36:07.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.31130611695311927
+[27May2025 04:36:07.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.4152383505377202
+[27May2025 04:36:07.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jota) moved wrongly! 0.5067457823975019
+[27May2025 04:36:24.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:36:24.693] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3139ms or 62 ticks
+[27May2025 04:36:59.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of mererio48) moved wrongly! 0.42291220395804885
+[27May2025 04:37:14.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.5884361041707962
+[27May2025 04:37:14.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.8705704195579074
+[27May2025 04:37:14.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.9939029448391921
+[27May2025 04:37:14.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 1.2506267595249483
+[27May2025 04:38:28.570] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3012ms or 60 ticks
+[27May2025 04:38:45.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [A Terrifying Entrance]
+[27May2025 04:38:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[27May2025 04:39:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to Richstone]
+[27May2025 04:39:24.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Richstone to mererio48]
+[27May2025 04:39:26.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Richstone to ZhynoDamned]
+[27May2025 04:39:27.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Richstone to Jota]
+[27May2025 04:39:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Richstone]
+[27May2025 04:39:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Richstone: Teleported Richstone to Jota]
+[27May2025 04:39:38.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]

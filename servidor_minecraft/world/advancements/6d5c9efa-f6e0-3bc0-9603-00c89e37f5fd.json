@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-26 02:06:10 +0000",
+      "minecraft:deep_ocean": "2025-05-27 04:36:53 +0000",
       "minecraft:eroded_badlands": "2025-05-26 00:58:47 +0000",
       "minecraft:frozen_river": "2025-05-26 02:06:28 +0000",
       "minecraft:birch_forest": "2025-05-25 23:49:20 +0000",
@@ -123,6 +124,7 @@
       "orchard": "2025-05-26 01:30:11 +0000",
       "mediterranean_forest": "2025-05-26 00:04:32 +0000",
       "coniferous_forest": "2025-05-26 02:35:34 +0000",
+      "spider_nest": "2025-05-27 04:07:43 +0000",
       "dryland": "2025-05-25 23:02:22 +0000",
       "wasteland": "2025-05-25 18:57:13 +0000",
       "lush_desert": "2025-05-25 21:17:32 +0000",
@@ -6853,6 +6855,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-05-27 04:10:21 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-05-27 03:30:58 +0000"
@@ -7144,6 +7152,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-27 03:38:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-05-27 04:10:21 +0000"
     },
     "done": true
   },
