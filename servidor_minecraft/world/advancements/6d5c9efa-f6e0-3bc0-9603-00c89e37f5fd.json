@@ -6835,6 +6835,48 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/snow_crow": {
     "criteria": {
       "has_slashblade": "2025-05-27 03:14:26 +0000"
@@ -6847,9 +6889,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/muramasa": {
     "criteria": {
       "has_slashblade": "2025-05-27 03:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
     },
     "done": true
   },
@@ -6877,6 +6937,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/laemmle": {
     "criteria": {
       "has_slashblade": "2025-05-27 03:14:26 +0000"
@@ -6901,6 +6967,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/aquablaze": {
     "criteria": {
       "has_slashblade": "2025-05-27 03:14:26 +0000"
@@ -6913,9 +6991,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/yukari": {
     "criteria": {
       "has_slashblade": "2025-05-27 03:14:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-27 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-27 03:34:02 +0000"
     },
     "done": true
   },

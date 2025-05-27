@@ -6986,6 +6986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-27 03:36:29 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/nihilbx": {
     "criteria": {
       "has_slashblade": "2025-05-27 01:41:07 +0000"
@@ -7067,6 +7073,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-27 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-27 03:36:29 +0000"
     },
     "done": true
   },
