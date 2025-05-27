@@ -6970,13 +6970,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "slashblade:arts/combo_a": {
     "criteria": {
-      "has_soul_sand": "2025-05-27 02:35:28 +0000"
+      "customtrigger": "2025-05-27 01:31:58 +0000"
     },
     "done": true
   },
   "slashblade:enchantment/feather_falling": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:31:59 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/root": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:59 +0000"
     },
@@ -6988,9 +6994,15 @@
     },
     "done": true
   },
-  "slashblade:arts/combo_a": {
+  "slashblade:arts/aerial_a": {
     "criteria": {
-      "customtrigger": "2025-05-27 01:31:58 +0000"
+      "customtrigger": "2025-05-27 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:46:05 +0000"
     },
     "done": true
   },
@@ -7006,9 +7018,15 @@
     },
     "done": true
   },
-  "slashblade:abilities/enemy_step": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "customtrigger": "2025-05-27 03:04:11 +0000"
+      "has_soul_sand": "2025-05-27 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 02:35:28 +0000"
     },
     "done": true
   },
@@ -7018,33 +7036,15 @@
     },
     "done": true
   },
-  "slashblade:enchantment/root": {
+  "slashblade:abilities/enemy_step": {
     "criteria": {
-      "customtrigger": "2025-05-27 01:31:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-05-27 01:46:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-05-27 01:46:00 +0000"
+      "customtrigger": "2025-05-27 03:04:11 +0000"
     },
     "done": true
   },
   "legendary_monsters:defeat_cloud_golem": {
     "criteria": {
       "cloud_golem": "2025-05-27 03:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-27 02:35:28 +0000"
     },
     "done": true
   },
