@@ -1777,6 +1777,7 @@
       "potato": "2025-05-25 20:38:10 +0000",
       "bread": "2025-05-25 20:56:22 +0000",
       "golden_apple": "2025-05-25 22:01:42 +0000",
+      "melon_slice": "2025-05-27 22:38:55 +0000",
       "beetroot": "2025-05-25 22:34:36 +0000",
       "golden_carrot": "2025-05-26 23:23:37 +0000",
       "carrot": "2025-05-25 20:38:25 +0000"
@@ -7390,6 +7391,18 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-05-27 22:52:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-27 22:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-27 22:26:45 +0000"
@@ -7402,15 +7415,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-27 22:26:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:38:52 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/wraith_dim_light": {
     "criteria": {
       "dim_light": "2025-05-27 22:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:38:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-05-27 22:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-27 22:52:32 +0000"
     },
     "done": true
   },
@@ -7423,6 +7466,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-05-27 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:38:52 +0000"
     },
     "done": true
   },
