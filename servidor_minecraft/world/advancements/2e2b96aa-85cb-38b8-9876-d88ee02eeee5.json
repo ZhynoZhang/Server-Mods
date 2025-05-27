@@ -2804,7 +2804,8 @@
       "suspicious_stew": "2025-05-27 00:42:23 +0000",
       "cooked_chicken": "2025-05-26 00:21:56 +0000",
       "mushroom_stew": "2025-05-27 01:34:42 +0000",
-      "rabbit_stew": "2025-05-26 02:09:27 +0000"
+      "rabbit_stew": "2025-05-26 02:09:27 +0000",
+      "carrot": "2025-05-27 03:24:07 +0000"
     },
     "done": false
   },
@@ -4377,7 +4378,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-05-26 01:35:39 +0000"
+      "cabbage": "2025-05-27 03:24:26 +0000",
+      "tomato": "2025-05-27 03:24:35 +0000",
+      "wheat": "2025-05-26 01:35:39 +0000",
+      "carrot": "2025-05-27 03:23:55 +0000"
     },
     "done": false
   },
@@ -6187,6 +6191,12 @@
     },
     "done": true
   },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-05-27 03:23:48 +0000"
+    },
+    "done": true
+  },
   "slashblade:blade/s_bamboo": {
     "criteria": {
       "crafting": "2025-05-27 02:32:35 +0000"
@@ -6436,6 +6446,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
     "criteria": {
       "has_black_dye": "2025-05-27 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-05-27 03:20:25 +0000"
     },
     "done": true
   },
@@ -6944,6 +6960,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-05-27 03:21:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-27 03:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-27 02:49:45 +0000"
@@ -6986,9 +7014,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-05-27 03:20:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-05-27 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-27 03:20:25 +0000"
     },
     "done": true
   },

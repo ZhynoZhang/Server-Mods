@@ -7038,3 +7038,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27May2025 03:16:14.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
 [27May2025 03:16:58.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 03:16:58.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:21:58.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:21:58.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:23:30.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3325, y=107, z=259} BlockPos{x=3325, y=106, z=258}
+[27May2025 03:23:30.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3325, y=107, z=259} BlockPos{x=3325, y=106, z=258}
+[27May2025 03:24:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported mererio48 to ZhynoDamned]
+[27May2025 03:25:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 03:26:58.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:26:58.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:28:47.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned fell from a high place
