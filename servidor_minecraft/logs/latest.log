@@ -497,3 +497,74 @@
 [27May2025 04:39:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Richstone]
 [27May2025 04:39:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Richstone: Teleported Richstone to Jota]
 [27May2025 04:39:38.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:41:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Undead Guard]
+[27May2025 04:41:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone has made the advancement [Diamonds!]
+[27May2025 04:42:05.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Removed every effect from Jota]
+[27May2025 04:43:07.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Possessed Paladin
+[27May2025 04:43:14.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 04:43:34.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has completed the challenge [The Fallen Knight]
+[27May2025 04:44:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[27May2025 04:44:39.270] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3225ms or 64 ticks
+[27May2025 04:44:41.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[27May2025 04:44:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 04:44:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[27May2025 04:45:08.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:45:11.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:45:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[27May2025 04:45:27.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:45:42.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:45:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:46:06.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.33918964158283416
+[27May2025 04:46:06.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.6001310368237682
+[27May2025 04:46:06.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 0.863108706562798
+[27May2025 04:46:06.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Richstone) moved wrongly! 1.1278560300434037
+[27May2025 04:46:28.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Sneak 100]
+[27May2025 04:46:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[27May2025 04:46:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[27May2025 04:46:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Invel666 to Jota]
+[27May2025 04:47:21.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[27May2025 04:47:25.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Warden
+[27May2025 04:47:27.250] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3403ms or 68 ticks
+[27May2025 04:47:27.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was slain by Warden
+[27May2025 04:47:32.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 04:47:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[27May2025 04:48:09.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was obliterated by a sonically-charged shriek
+[27May2025 04:48:18.375] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3201ms or 64 ticks
+[27May2025 04:48:19.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to mererio48]
+[27May2025 04:48:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Warden
+[27May2025 04:48:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota was slain by Warden
+[27May2025 04:48:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported Jota to ZhynoDamned]
+[27May2025 04:49:44.863] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3209ms or 64 ticks
+[27May2025 04:50:23.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Jota]
+[27May2025 04:50:28.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[27May2025 04:50:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Richstone]
+[27May2025 04:50:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[27May2025 04:50:56.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
+[27May2025 04:50:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[27May2025 04:51:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jota: Teleported 4 entities to Jota]
+[27May2025 04:51:35.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Richstone lost connection: Disconnected
+[27May2025 04:51:35.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Richstone left the game
+[27May2025 04:51:46.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 lost connection: Disconnected
+[27May2025 04:51:46.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 left the game
+[27May2025 04:51:48.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jota lost connection: Disconnected
+[27May2025 04:51:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jota left the game
+[27May2025 04:51:48.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27May2025 04:51:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27May2025 04:51:48.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27May2025 04:51:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27May2025 04:51:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27May2025 04:51:49.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27May2025 04:51:49.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[27May2025 04:51:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[27May2025 04:51:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27May2025 04:51:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27May2025 04:51:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27May2025 04:51:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[27May2025 04:51:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[27May2025 04:51:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27May2025 04:51:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27May2025 04:51:49.975] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27May2025 04:51:49.977] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[27May2025 04:51:49.981] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27May2025 04:51:49.981] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27May2025 04:51:49.982] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

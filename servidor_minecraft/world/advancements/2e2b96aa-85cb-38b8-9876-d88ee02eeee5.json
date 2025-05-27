@@ -117,6 +117,7 @@
       "minecraft:ocean": "2025-05-27 04:36:24 +0000",
       "minecraft:snowy_beach": "2025-05-26 02:30:27 +0000",
       "minecraft:warm_ocean": "2025-05-26 00:27:08 +0000",
+      "minecraft:deep_dark": "2025-05-27 04:49:32 +0000",
       "minecraft:savanna": "2025-05-26 00:19:28 +0000",
       "minecraft:plains": "2025-05-26 01:32:47 +0000"
     },
@@ -7304,6 +7305,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-05-27 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-27 04:46:28 +0000"
     },
     "done": true
   },

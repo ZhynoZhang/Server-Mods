@@ -92,6 +92,7 @@
       "minecraft:ocean": "2025-05-25 23:42:05 +0000",
       "minecraft:snowy_beach": "2025-05-27 00:24:31 +0000",
       "minecraft:warm_ocean": "2025-05-25 18:55:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-27 04:37:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 23:53:39 +0000",
       "minecraft:deep_dark": "2025-05-26 01:09:05 +0000",
       "minecraft:savanna": "2025-05-25 18:54:05 +0000",
@@ -7152,6 +7153,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-27 03:38:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-05-27 04:43:34 +0000"
     },
     "done": true
   },
