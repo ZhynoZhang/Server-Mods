@@ -7004,6 +7004,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-27 02:42:12 +0000"
+    },
+    "done": true
+  },
   "slashblade:enchantment/root": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:59 +0000"

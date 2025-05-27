@@ -1,4 +1,16 @@
 {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-27 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
@@ -41,6 +53,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-27 02:00:08 +0000"
@@ -71,6 +89,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
@@ -86,6 +110,12 @@
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_iron": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -131,6 +161,12 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-05-27 02:39:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -152,6 +188,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -215,6 +257,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/quartz_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -242,6 +290,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-27 02:00:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -275,9 +329,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-27 02:39:01 +0000"
     },
     "done": true
   },
@@ -329,9 +395,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-27 02:30:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -340,6 +430,12 @@
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-27 02:39:16 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
@@ -377,9 +473,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -443,9 +557,21 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-05-27 02:38:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -461,9 +587,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_string": "2025-05-27 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -476,6 +614,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -515,6 +659,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-05-27 02:02:27 +0000"
@@ -524,6 +674,12 @@
   "slashblade_addon:recipes/combat/snow_crow": {
     "criteria": {
       "has_slashblade": "2025-05-27 02:31:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -575,6 +731,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/oil_lantern": {
     "criteria": {
       "has_iron": "2025-05-27 02:02:27 +0000"
@@ -593,9 +761,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-27 02:48:51 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -683,6 +863,18 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-27 02:37:24 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -731,9 +923,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -839,15 +1055,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/nihilul": {
     "criteria": {
       "has_slashblade": "2025-05-27 02:31:39 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -872,6 +1106,24 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -906,11 +1158,30 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-27 02:00:08 +0000"
     },
     "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-27 02:37:24 +0000",
+      "minecraft:chicken": "2025-05-27 02:42:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -942,6 +1213,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-27 02:05:07 +0000"
@@ -969,6 +1246,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_string": "2025-05-27 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-05-27 02:56:08 +0000"
     },
     "done": true
   },
@@ -1050,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1083,6 +1372,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-05-27 02:00:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1131,6 +1426,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-27 02:05:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1236,6 +1537,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_string": "2025-05-27 02:01:55 +0000"
@@ -1308,6 +1615,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-27 02:45:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-05-27 02:29:33 +0000"
@@ -1350,9 +1675,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 02:39:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-27 02:39:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-05-27 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-05-27 02:51:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1365,6 +1726,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_string": "2025-05-27 02:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-27 02:39:01 +0000"
     },
     "done": true
   },
@@ -1440,6 +1807,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1494,6 +1867,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1503,6 +1882,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1533,6 +1918,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1584,6 +1975,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-05-27 02:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1593,6 +1990,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-05-27 02:45:11 +0000"
     },
     "done": true
   },
@@ -1611,6 +2014,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -1635,6 +2044,12 @@
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -1680,6 +2095,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-27 02:00:08 +0000"
@@ -1710,9 +2137,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -1801,6 +2240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-27 02:56:08 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/snowflake_light": {
     "criteria": {
       "has_iron": "2025-05-27 02:02:27 +0000"
@@ -1837,6 +2282,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1858,6 +2309,12 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -1885,6 +2342,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
@@ -1897,9 +2360,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-27 02:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 02:39:16 +0000"
     },
     "done": true
   },
@@ -1927,6 +2408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
@@ -1942,6 +2429,12 @@
   "slashblade_addon:recipes/combat/aquablaze": {
     "criteria": {
       "has_slashblade": "2025-05-27 02:31:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -1963,6 +2456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-27 01:58:18 +0000"
@@ -1975,15 +2474,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 02:39:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-05-27 02:39:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-05-27 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -2035,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-27 02:31:42 +0000"
@@ -2056,6 +2591,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-27 02:56:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2110,6 +2657,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-05-27 02:29:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2179,9 +2732,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -2200,6 +2765,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-27 02:25:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -2263,9 +2834,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
     },
     "done": true
   },
@@ -2329,6 +2912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-27 02:05:32 +0000"
@@ -2341,9 +2930,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-27 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2374,6 +2975,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2431,9 +3038,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-27 02:39:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
     },
     "done": true
   },
@@ -2452,6 +3077,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2479,9 +3110,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-27 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-27 02:39:16 +0000"
     },
     "done": true
   },
@@ -2490,6 +3133,24 @@
       "minecraft:savanna": "2025-05-27 01:58:26 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-27 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/bread_box": {
     "criteria": {
@@ -2506,6 +3167,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2532,6 +3199,13 @@
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-05-27 02:45:11 +0000",
+      "bread": "2025-05-27 02:45:30 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -2569,15 +3243,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 02:02:27 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-27 02:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-05-27 02:04:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -2665,6 +3363,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-05-27 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 02:45:50 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2025-05-27 02:01:55 +0000"
@@ -2674,6 +3384,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-27 02:05:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-27 02:39:01 +0000"
     },
     "done": true
   },
