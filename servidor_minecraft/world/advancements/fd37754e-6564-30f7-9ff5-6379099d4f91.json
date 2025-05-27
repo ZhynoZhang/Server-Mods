@@ -6937,6 +6937,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-05-27 02:21:33 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/snow_crow": {
     "criteria": {
       "has_slashblade": "2025-05-27 01:41:07 +0000"
