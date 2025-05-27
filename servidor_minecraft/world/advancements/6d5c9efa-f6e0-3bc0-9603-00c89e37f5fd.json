@@ -7270,9 +7270,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-27 23:02:33 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_the_ancient_guardian": {
     "criteria": {
       "guardian": "2025-05-27 22:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-27 23:02:33 +0000"
     },
     "done": true
   },
