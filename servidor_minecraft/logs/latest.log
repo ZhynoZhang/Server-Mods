@@ -841,3 +841,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27May2025 22:21:52.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Invel666[/127.169.66.26:45235] logged in with entity id 34248 at (3019.809214020783, -21.0, 397.23325900366734)
 [27May2025 22:21:52.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 joined the game
 [27May2025 22:23:50.692] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3125ms or 62 ticks
+[27May2025 22:25:07.288] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3092ms or 61 ticks
+[27May2025 22:25:46.569] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 22:25:46.569] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 22:25:53.673] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 22:25:53.674] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27May2025 22:26:23.035] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3016ms or 60 ticks
+[27May2025 22:26:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Who turned the lights off?]
+[27May2025 22:28:39.879] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3004ms or 60 ticks
+[27May2025 22:30:23.079] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3166ms or 63 ticks
+[27May2025 22:30:56.484] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3035ms or 60 ticks
+[27May2025 22:31:13.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[27May2025 22:31:28.357] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3046ms or 60 ticks
+[27May2025 22:31:37.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/38674, l='ServerLevel[world]', x=210.73, y=72.00, z=3792.07] died, message: 'Golem Healer was laid to rest by Priest'
+[27May2025 22:31:37.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/38674, l='ServerLevel[world]', x=210.73, y=72.00, z=3792.07] died: Golem Healer was laid to rest by Priest
+[27May2025 22:32:49.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[27May2025 22:33:09.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported cocodrilo to ZhynoDamned]
+[27May2025 22:33:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cocodrilo has made the advancement [Fruits of the Field]
+[27May2025 22:33:18.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/38706, l='ServerLevel[world]', x=250.31, y=72.02, z=3814.33] died, message: 'Toolsmith was slain by Zombie'
+[27May2025 22:33:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[27May2025 22:34:15.751] [Worker-Main-80/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27May2025 22:34:15.765] [Worker-Main-80/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27May2025 22:34:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]

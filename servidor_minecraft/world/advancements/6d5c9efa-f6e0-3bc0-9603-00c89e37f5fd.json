@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-27 22:24:25 +0000",
       "minecraft:taiga": "2025-05-26 02:06:10 +0000",
       "minecraft:deep_ocean": "2025-05-27 04:36:53 +0000",
       "minecraft:eroded_badlands": "2025-05-26 00:58:47 +0000",
@@ -94,6 +95,7 @@
       "minecraft:snowy_beach": "2025-05-27 00:24:31 +0000",
       "minecraft:warm_ocean": "2025-05-25 18:55:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-27 04:37:48 +0000",
+      "minecraft:frozen_peaks": "2025-05-27 22:24:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 23:53:39 +0000",
       "minecraft:deep_dark": "2025-05-26 01:09:05 +0000",
       "minecraft:meadow": "2025-05-27 21:54:45 +0000",
@@ -125,6 +127,7 @@
       "crystalline_chasm": "2025-05-26 23:48:41 +0000",
       "field": "2025-05-26 02:01:49 +0000",
       "orchard": "2025-05-26 01:30:11 +0000",
+      "lavender_forest": "2025-05-27 22:24:36 +0000",
       "mediterranean_forest": "2025-05-26 00:04:32 +0000",
       "coniferous_forest": "2025-05-26 02:35:34 +0000",
       "spider_nest": "2025-05-27 04:07:43 +0000",
