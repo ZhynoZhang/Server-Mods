@@ -163,6 +163,7 @@
       "minecraft:snowy_beach": "2025-05-26 01:02:24 +0000",
       "minecraft:warm_ocean": "2025-05-25 20:35:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-25 22:36:34 +0000",
+      "minecraft:flower_forest": "2025-05-27 01:49:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 22:47:52 +0000",
       "minecraft:savanna": "2025-05-27 01:36:25 +0000",
       "minecraft:plains": "2025-05-25 22:53:15 +0000"
@@ -6973,15 +6974,39 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:37:41 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_a": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:58 +0000"
     },
     "done": true
   },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:49:13 +0000"
+    },
+    "done": true
+  },
   "slashblade:enchantment/root": {
     "criteria": {
       "customtrigger": "2025-05-27 01:31:59 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:46:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-05-27 01:46:00 +0000"
     },
     "done": true
   },
