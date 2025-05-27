@@ -154,6 +154,7 @@
       "minecraft:river": "2025-05-25 21:58:05 +0000",
       "minecraft:stony_shore": "2025-05-25 21:58:38 +0000",
       "minecraft:snowy_plains": "2025-05-25 23:58:03 +0000",
+      "minecraft:dripstone_caves": "2025-05-27 22:17:30 +0000",
       "minecraft:forest": "2025-05-26 02:50:59 +0000",
       "minecraft:lush_caves": "2025-05-25 21:11:55 +0000",
       "minecraft:frozen_ocean": "2025-05-26 02:33:59 +0000",
@@ -7311,15 +7312,21 @@
     },
     "done": true
   },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-05-27 21:57:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-27 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-27 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-05-27 21:57:09 +0000"
     },
     "done": true
   },
@@ -7335,9 +7342,51 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
-      "has_wither_rose": "2025-05-27 21:57:07 +0000"
+      "has_dripstone_pillar_trim": "2025-05-27 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-05-27 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-27 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-27 22:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-27 22:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-27 22:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-27 22:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-27 22:21:18 +0000"
     },
     "done": true
   },
