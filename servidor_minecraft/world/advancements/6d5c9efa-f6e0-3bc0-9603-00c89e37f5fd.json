@@ -131,6 +131,8 @@
       "wasteland": "2025-05-25 18:57:13 +0000",
       "lush_desert": "2025-05-25 21:17:32 +0000",
       "wasteland_steppe": "2025-05-25 21:30:59 +0000",
+      "dune_beach": "2025-05-27 21:22:44 +0000",
+      "pasture": "2025-05-27 21:22:47 +0000",
       "volcanic_plains": "2025-05-25 23:40:21 +0000",
       "lavender_field": "2025-05-26 00:26:50 +0000",
       "pumpkin_patch": "2025-05-26 01:59:31 +0000",
@@ -7205,6 +7207,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-05-27 21:24:17 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-27 21:01:46 +0000"
@@ -7214,6 +7222,36 @@
   "legendary_monsters:locate_ancient_stronghold": {
     "criteria": {
       "ancient_stronghold": "2025-05-27 21:17:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-05-27 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-27 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-27 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-05-27 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-05-27 21:24:20 +0000"
     },
     "done": true
   },
